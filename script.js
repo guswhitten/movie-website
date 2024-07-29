@@ -1,13 +1,18 @@
 let movies = [];
 let currentPage = 1;
 const moviesPerPage = 12;
+const config = {
+    apiUrl: window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+        ? 'http://localhost:5500'
+        : 'https://guswhitten.github.io/movie-website'
+};
 
 /*
 loads movies from movies.txt
 Splits each line into new array element
 */
 async function loadMovies() {
-    const response = await fetch('http://localhost:5500/movies.txt');
+    const response = await fetch(`${config.apiUrl}/movies.txt`);
     const text = await response.text();
     const titles = text.split('\n').filter(title => title.trim() !== '');
     const startIndex = (currentPage - 1) * moviesPerPage;
@@ -30,7 +35,7 @@ async function loadMovies() {
 
 async function fetchMovieData(title) {
     try {
-        const response = await fetch(`json/${title}.json`);
+        const response = await fetch(`${config.apiUrl}/json/${title}.json`);
         if (!response.ok) throw new Error('Movie data not found');
         return await response.json();
     } catch (error) {
@@ -79,13 +84,13 @@ function updatePaginationButtons() {
 function prevPage() {
     currentPage--;
     updatePaginationButtons();
-    displayMovies();
+    displayMovies(movies);
 }
 
 function nextPage() {
     currentPage++;
     updatePaginationButtons();
-    displayMovies();
+    displayMovies(movies);
 }
 
 function searchMovies() {
