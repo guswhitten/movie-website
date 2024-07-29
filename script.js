@@ -17,29 +17,15 @@ async function loadMovies() {
         const data = await fetchMovieData(title.split(' (')[0]);
         if (data) {
             movies.push(data);
-            if (idx >= startIndex && idx <= endIndex) displayMovie(data);
+            if (idx == endIndex) {
+                displayMovies(movies);
+            }
         }
         return data;
     })
 
     await Promise.all(moviePromises); // Wait for all promises to resolve
     updatePaginationButtons();
-}
-
-function displayMovie(movie) {
-    const movieList = document.getElementById('movie-list');
-    const card = document.createElement('div');
-    card.className = 'movie-card';
-    card.innerHTML = `
-        <img src="${movie.Poster}" alt="${movie.Title} poster" onerror="this.src='placeholder.jpg'">
-        <div class="movie-info">
-            <h2>${movie.Title} (${movie.Year})</h2>
-            <p><strong>Director:</strong> ${movie.Director}</p>
-            <p><strong>Genre:</strong> ${movie.Genre}</p>
-            <p><strong>IMDb Rating:</strong> ${movie.imdbRating}</p>
-        </div>
-    `;
-    movieList.appendChild(card);
 }
 
 async function fetchMovieData(title) {
@@ -53,15 +39,28 @@ async function fetchMovieData(title) {
     }
 }
 
-function displayMovies() {
+function displayMovies(moviesToShow) {
     const movieList = document.getElementById('movie-list');
     movieList.innerHTML = '';
 
     const startIndex = (currentPage - 1) * moviesPerPage;
     const endIndex = startIndex + moviesPerPage;
-    const moviesToDisplay = movies.slice(startIndex, endIndex);
+    const moviesToDisplay = moviesToShow.slice(startIndex, endIndex);
 
-    moviesToDisplay.forEach(movie => displayMovie(movie));
+    moviesToDisplay.forEach(movie => {
+        const card = document.createElement('div');
+        card.className = 'movie-card';
+        card.innerHTML = `
+            <img src="${movie.Poster}" alt="${movie.Title} poster">
+            <div class="movie-info">
+                <h2>${movie.Title} (${movie.Year})</h2>
+                <p><strong>Director:</strong> ${movie.Director}</p>
+                <p><strong>Genre:</strong> ${movie.Genre}</p>
+                <p><strong>IMDb Rating:</strong> ${movie.imdbRating}</p>
+            </div>
+        `;
+        movieList.appendChild(card);
+    });
 
     updatePaginationButtons(moviesToShow.length);
 }
