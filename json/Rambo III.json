@@ -1,0 +1,40 @@
+{
+  "Title": "Rambo III",
+  "Year": "1988",
+  "Rated": "R",
+  "Released": "25 May 1988",
+  "Runtime": "102 min",
+  "Genre": "Action, Adventure, Thriller",
+  "Director": "Peter MacDonald",
+  "Writer": "David Morrell, Sylvester Stallone, Sheldon Lettich",
+  "Actors": "Sylvester Stallone, Richard Crenna, Marc de Jonge",
+  "Plot": "Rambo mounts a one-man mission to rescue his friend Colonel Trautman from the clutches of the formidable invading Soviet forces in Afghanistan.",
+  "Language": "English, Russian",
+  "Country": "United States",
+  "Awards": "2 wins & 7 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZGY0NmQ1YjQtODIwZC00MWM5LThkM2ItZjljM2NhNjIzNjgyXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "41%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "36/100"
+    }
+  ],
+  "Metascore": "36",
+  "imdbRating": "5.8",
+  "imdbVotes": "140,919",
+  "imdbID": "tt0095956",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$53,715,611",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

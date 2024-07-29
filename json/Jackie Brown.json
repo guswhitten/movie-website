@@ -1,0 +1,40 @@
+{
+  "Title": "Jackie Brown",
+  "Year": "1997",
+  "Rated": "R",
+  "Released": "25 Dec 1997",
+  "Runtime": "154 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Quentin Tarantino",
+  "Writer": "Quentin Tarantino, Elmore Leonard",
+  "Actors": "Pam Grier, Samuel L. Jackson, Robert Forster",
+  "Plot": "A flight attendant with a criminal past gets nabbed by the ATF for smuggling. Under pressure to become an informant against the illegal arms dealer she works for, she must find a way to secure her future without getting killed.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 9 wins & 24 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmY5ODRmYTItNWU0Ni00MWE3LTgyYzUtYjZlN2Q5YTcyM2NmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "7.5",
+  "imdbVotes": "376,943",
+  "imdbID": "tt0119396",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$39,673,162",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

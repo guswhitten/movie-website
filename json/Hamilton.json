@@ -1,0 +1,40 @@
+{
+  "Title": "Hamilton",
+  "Year": "2020",
+  "Rated": "PG-13",
+  "Released": "03 Jul 2020",
+  "Runtime": "160 min",
+  "Genre": "Biography, Drama, History",
+  "Director": "Thomas Kail",
+  "Writer": "Lin-Manuel Miranda, Ron Chernow",
+  "Actors": "Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.",
+  "Plot": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Won 2 Primetime Emmys. 19 wins & 46 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "Metascore": "89",
+  "imdbRating": "8.3",
+  "imdbVotes": "115,676",
+  "imdbID": "tt8503618",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

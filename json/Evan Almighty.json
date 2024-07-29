@@ -1,0 +1,40 @@
+{
+  "Title": "Evan Almighty",
+  "Year": "2007",
+  "Rated": "PG",
+  "Released": "22 Jun 2007",
+  "Runtime": "96 min",
+  "Genre": "Comedy, Family, Fantasy",
+  "Director": "Tom Shadyac",
+  "Writer": "Steve Koren, Mark O'Keefe, Steve Oedekerk",
+  "Actors": "Steve Carell, Morgan Freeman, Lauren Graham",
+  "Plot": "God contacts Congressman Evan Baxter and tells him to build an ark in preparation for a great flood.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 11 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMTEzODYxMV5BMl5BanBnXkFtZTcwNzQ4ODU0MQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "24%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "37/100"
+    }
+  ],
+  "Metascore": "37",
+  "imdbRating": "5.4",
+  "imdbVotes": "155,720",
+  "imdbID": "tt0413099",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$100,462,298",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Gattaca",
+  "Year": "1997",
+  "Rated": "PG-13",
+  "Released": "24 Oct 1997",
+  "Runtime": "106 min",
+  "Genre": "Drama, Sci-Fi, Thriller",
+  "Director": "Andrew Niccol",
+  "Writer": "Andrew Niccol",
+  "Actors": "Ethan Hawke, Uma Thurman, Jude Law",
+  "Plot": "Vincent, an \"In-Valid\", assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation. However, a week before his mission, a murder marks Vincent as a suspect.",
+  "Language": "English, Esperanto",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 6 wins & 16 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOWRhZDMwMzEtNDYzNy00N2U4LWIzNGMtMmIyY2M3YWFjM2VkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "7.7",
+  "imdbVotes": "325,895",
+  "imdbID": "tt0119177",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$12,532,777",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

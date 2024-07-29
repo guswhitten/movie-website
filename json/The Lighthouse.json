@@ -1,0 +1,40 @@
+{
+  "Title": "The Lighthouse",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "01 Nov 2019",
+  "Runtime": "109 min",
+  "Genre": "Drama, Fantasy, Horror",
+  "Director": "Robert Eggers",
+  "Writer": "Robert Eggers, Max Eggers",
+  "Actors": "Robert Pattinson, Willem Dafoe, Valeriia Karaman",
+  "Plot": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+  "Language": "English",
+  "Country": "United States, Canada",
+  "Awards": "Nominated for 1 Oscar. 34 wins & 138 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.4",
+  "imdbVotes": "259,214",
+  "imdbID": "tt7984734",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$10,867,104",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

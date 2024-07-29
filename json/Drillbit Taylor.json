@@ -1,0 +1,40 @@
+{
+  "Title": "Drillbit Taylor",
+  "Year": "2008",
+  "Rated": "PG-13",
+  "Released": "21 Mar 2008",
+  "Runtime": "110 min",
+  "Genre": "Action, Comedy, Crime",
+  "Director": "Steven Brill",
+  "Writer": "Kristofor Brown, Seth Rogen, John Hughes",
+  "Actors": "Owen Wilson, Josh Peck, Alex Frost",
+  "Plot": "Three kids hire a low-budget bodyguard to protect them from the playground bully.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 2 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzkwOTc3OF5BMl5BanBnXkFtZTcwMTc1MzU1MQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "27%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "Metascore": "41",
+  "imdbRating": "5.7",
+  "imdbVotes": "62,560",
+  "imdbID": "tt0817538",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$32,862,104",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

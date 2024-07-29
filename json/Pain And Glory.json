@@ -1,0 +1,40 @@
+{
+  "Title": "Pain and Glory",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "04 Oct 2019",
+  "Runtime": "113 min",
+  "Genre": "Drama",
+  "Director": "Pedro Almodóvar",
+  "Writer": "Pedro Almodóvar",
+  "Actors": "Antonio Banderas, Asier Etxeandia, Leonardo Sbaraglia",
+  "Plot": "A film director reflects on the choices he's made in life as the past and present come crashing down around him.",
+  "Language": "Spanish",
+  "Country": "Spain, France",
+  "Awards": "Nominated for 2 Oscars. 70 wins & 182 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWU4MTM2YTgtYTRlZC00ZmRhLTlkYTMtZDkyYzNjZDU1NmI0XkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "87/100"
+    }
+  ],
+  "Metascore": "87",
+  "imdbRating": "7.5",
+  "imdbVotes": "63,548",
+  "imdbID": "tt8291806",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$4,567,338",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

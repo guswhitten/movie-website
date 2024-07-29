@@ -1,0 +1,40 @@
+{
+  "Title": "Donnie Brasco",
+  "Year": "1997",
+  "Rated": "R",
+  "Released": "28 Feb 1997",
+  "Runtime": "127 min",
+  "Genre": "Biography, Crime, Drama",
+  "Director": "Mike Newell",
+  "Writer": "Joseph D. Pistone, Richard Woodley, Paul Attanasio",
+  "Actors": "Al Pacino, Johnny Depp, Michael Madsen",
+  "Plot": "An FBI undercover agent infiltrates the mob and finds himself identifying more with the Mafia life--at the expense of his regular one.",
+  "Language": "English, Italian, Japanese",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 2 wins & 16 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzMzMDZkYWEtODIzNS00YjI3LTkxNTktOWEyZGM3ZWI2MWM4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "Metascore": "76",
+  "imdbRating": "7.7",
+  "imdbVotes": "334,990",
+  "imdbID": "tt0119008",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$41,909,762",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

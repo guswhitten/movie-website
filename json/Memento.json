@@ -1,0 +1,40 @@
+{
+  "Title": "Memento",
+  "Year": "2000",
+  "Rated": "R",
+  "Released": "25 May 2001",
+  "Runtime": "113 min",
+  "Genre": "Mystery, Thriller",
+  "Director": "Christopher Nolan",
+  "Writer": "Christopher Nolan, Jonathan Nolan",
+  "Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",
+  "Plot": "A man with short-term memory loss attempts to track down his wife's murderer.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 2 Oscars. 57 wins & 59 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "8.4",
+  "imdbVotes": "1,330,097",
+  "imdbID": "tt0209144",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$25,544,867",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

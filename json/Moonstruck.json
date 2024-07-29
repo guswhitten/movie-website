@@ -1,0 +1,40 @@
+{
+  "Title": "Moonstruck",
+  "Year": "1987",
+  "Rated": "PG",
+  "Released": "15 Jan 1988",
+  "Runtime": "102 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Norman Jewison",
+  "Writer": "John Patrick Shanley",
+  "Actors": "Cher, Nicolas Cage, Olympia Dukakis",
+  "Plot": "Loretta Castorini, a bookkeeper from Brooklyn, New York, finds herself in a difficult situation when she falls for the brother of the man she has agreed to marry.",
+  "Language": "English, Italian, Latin",
+  "Country": "United States",
+  "Awards": "Won 3 Oscars. 18 wins & 19 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTc3ZDQ1NGMtZTI3Yi00NDYxLWIxMmQtZDg3OGI4ZDdiZWMxXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "89%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.2",
+  "imdbVotes": "69,184",
+  "imdbID": "tt0093565",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$80,640,528",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

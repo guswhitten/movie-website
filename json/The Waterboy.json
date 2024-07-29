@@ -1,0 +1,40 @@
+{
+  "Title": "The Waterboy",
+  "Year": "1998",
+  "Rated": "PG-13",
+  "Released": "06 Nov 1998",
+  "Runtime": "90 min",
+  "Genre": "Comedy, Sport",
+  "Director": "Frank Coraci",
+  "Writer": "Tim Herlihy, Adam Sandler",
+  "Actors": "Adam Sandler, Kathy Bates, Henry Winkler",
+  "Plot": "A waterboy for a college football team discovers he has a unique tackling ability and becomes a member of the team.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "6 wins & 6 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzJmZDZlMGItZGJhOC00Y2NjLTljNzctMDg5YmQ1NzU3NzYzL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "33%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "41/100"
+    }
+  ],
+  "Metascore": "41",
+  "imdbRating": "6.2",
+  "imdbVotes": "180,099",
+  "imdbID": "tt0120484",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$161,491,646",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

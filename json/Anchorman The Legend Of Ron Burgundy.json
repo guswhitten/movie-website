@@ -1,0 +1,40 @@
+{
+  "Title": "Anchorman: The Legend of Ron Burgundy",
+  "Year": "2004",
+  "Rated": "PG-13",
+  "Released": "09 Jul 2004",
+  "Runtime": "94 min",
+  "Genre": "Comedy",
+  "Director": "Adam McKay",
+  "Writer": "Will Ferrell, Adam McKay",
+  "Actors": "Will Ferrell, Christina Applegate, Steve Carell",
+  "Plot": "In the 1970s, an anchorman's stint as San Diego's top-rated newsreader is challenged when an ambitious newswoman becomes his co-anchor.",
+  "Language": "English, French, Spanish",
+  "Country": "United States",
+  "Awards": "1 win & 13 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzYwMzk5Ml5BMl5BanBnXkFtZTcwOTI4NzUyMw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "63/100"
+    }
+  ],
+  "Metascore": "63",
+  "imdbRating": "7.1",
+  "imdbVotes": "380,428",
+  "imdbID": "tt0357413",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$85,288,303",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

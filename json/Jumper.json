@@ -1,0 +1,40 @@
+{
+  "Title": "Jumper",
+  "Year": "2008",
+  "Rated": "PG-13",
+  "Released": "14 Feb 2008",
+  "Runtime": "88 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Doug Liman",
+  "Writer": "David S. Goyer, Jim Uhls, Simon Kinberg",
+  "Actors": "Hayden Christensen, Samuel L. Jackson, Jamie Bell",
+  "Plot": "A young man with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.",
+  "Language": "English, Italian, Japanese, Mandarin",
+  "Country": "United States, Canada",
+  "Awards": "2 wins & 5 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMmFmYWVhMjYtMzMzNi00ZWQ0LTlkNGEtNTg3NmViNWFkM2QzXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "15%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "35/100"
+    }
+  ],
+  "Metascore": "35",
+  "imdbRating": "6.1",
+  "imdbVotes": "325,200",
+  "imdbID": "tt0489099",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$80,172,128",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

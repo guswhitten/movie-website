@@ -1,0 +1,40 @@
+{
+  "Title": "127 Hours",
+  "Year": "2010",
+  "Rated": "R",
+  "Released": "28 Jan 2011",
+  "Runtime": "94 min",
+  "Genre": "Biography, Drama",
+  "Director": "Danny Boyle",
+  "Writer": "Danny Boyle, Simon Beaufoy, Aron Ralston",
+  "Actors": "James Franco, Amber Tamblyn, Kate Mara",
+  "Plot": "A mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.",
+  "Language": "English, Italian",
+  "Country": "United Kingdom, United States, France",
+  "Awards": "Nominated for 6 Oscars. 23 wins & 150 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2NjMzOTE3Ml5BMl5BanBnXkFtZTcwMDE0OTc5Mw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "82/100"
+    }
+  ],
+  "Metascore": "82",
+  "imdbRating": "7.5",
+  "imdbVotes": "403,801",
+  "imdbID": "tt1542344",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$18,335,230",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

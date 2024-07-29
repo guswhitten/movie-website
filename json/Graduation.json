@@ -1,0 +1,40 @@
+{
+  "Title": "Graduation",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "20 May 2016",
+  "Runtime": "128 min",
+  "Genre": "Crime, Drama",
+  "Director": "Cristian Mungiu",
+  "Writer": "Cristian Mungiu",
+  "Actors": "Adrian Titieni, Maria Dragus, Lia Bugnar",
+  "Plot": "A film about compromises and the implications of the parent's role.",
+  "Language": "Romanian",
+  "Country": "Romania, France, Belgium",
+  "Awards": "11 wins & 28 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5ODUyNzA3OF5BMl5BanBnXkFtZTgwNjU5OTM2ODE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "Metascore": "84",
+  "imdbRating": "7.3",
+  "imdbVotes": "14,797",
+  "imdbID": "tt4936450",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$175,975",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

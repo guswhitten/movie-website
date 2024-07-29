@@ -1,0 +1,36 @@
+{
+  "Title": "Abigail",
+  "Year": "2024",
+  "Rated": "R",
+  "Released": "19 Apr 2024",
+  "Runtime": "109 min",
+  "Genre": "Horror, Thriller",
+  "Director": "Matt Bettinelli-Olpin, Tyler Gillett",
+  "Writer": "Stephen Shields, Guy Busick",
+  "Actors": "Melissa Barrera, Dan Stevens, Alisha Weir",
+  "Plot": "After a group of criminals kidnap the ballerina daughter of a powerful underworld figure, they retreat to an isolated mansion, unaware that they're locked inside with no normal little girl.",
+  "Language": "English",
+  "Country": "United States, Ireland, Canada",
+  "Awards": "6 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BY2JlYjlkNzMtNTU3OS00NDVmLTk4NTYtYTM4ZTEwMGM4NDBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "82%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.6",
+  "imdbVotes": "49,012",
+  "imdbID": "tt27489557",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$25,867,515",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

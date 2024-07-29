@@ -1,0 +1,40 @@
+{
+  "Title": "War Horse",
+  "Year": "2011",
+  "Rated": "PG-13",
+  "Released": "25 Dec 2011",
+  "Runtime": "146 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "Steven Spielberg",
+  "Writer": "Lee Hall, Richard Curtis, Michael Morpurgo",
+  "Actors": "Jeremy Irvine, Emily Watson, David Thewlis",
+  "Plot": "A young farm boy enlists to serve in World War I after his beloved horse is sold to the cavalry. His hopeful journey takes him out of England and onto the front lines as the war rages on.",
+  "Language": "English, German",
+  "Country": "United States, India",
+  "Awards": "Nominated for 6 Oscars. 15 wins & 76 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjExNzkxOTYyNl5BMl5BanBnXkFtZTcwODA0MjU4Ng@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "7.2",
+  "imdbVotes": "166,478",
+  "imdbID": "tt1568911",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$79,884,879",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

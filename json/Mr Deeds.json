@@ -1,0 +1,40 @@
+{
+  "Title": "Mr. Deeds",
+  "Year": "2002",
+  "Rated": "PG-13",
+  "Released": "28 Jun 2002",
+  "Runtime": "96 min",
+  "Genre": "Comedy, Romance",
+  "Director": "Steven Brill",
+  "Writer": "Clarence Budington Kelland, Robert Riskin, Tim Herlihy",
+  "Actors": "Adam Sandler, Winona Ryder, John Turturro",
+  "Plot": "A sweet-natured, small-town guy inherits a controlling stake in a media conglomerate and begins to do business his way.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "5 wins & 9 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3NTE3M2QtNWQ0MS00ZmRkLWIwNTMtOTA0ZGM5N2UwMWNjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "22%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "24/100"
+    }
+  ],
+  "Metascore": "24",
+  "imdbRating": "5.8",
+  "imdbVotes": "153,214",
+  "imdbID": "tt0280590",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$126,293,452",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

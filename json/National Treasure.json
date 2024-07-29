@@ -1,0 +1,40 @@
+{
+  "Title": "National Treasure",
+  "Year": "2004",
+  "Rated": "PG",
+  "Released": "19 Nov 2004",
+  "Runtime": "131 min",
+  "Genre": "Action, Adventure, Mystery",
+  "Director": "Jon Turteltaub",
+  "Writer": "Jim Kouf, Cormac Wibberley, Marianne Wibberley",
+  "Actors": "Nicolas Cage, Diane Kruger, Justin Bartha",
+  "Plot": "A historian races to find the legendary Templar Treasure before a team of mercenaries.",
+  "Language": "English, Spanish, German",
+  "Country": "United States",
+  "Awards": "1 win & 9 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3NTc4OTYxMF5BMl5BanBnXkFtZTcwMjk5NzUyMw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "40/100"
+    }
+  ],
+  "Metascore": "40",
+  "imdbRating": "6.9",
+  "imdbVotes": "357,768",
+  "imdbID": "tt0368891",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$173,008,894",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

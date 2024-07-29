@@ -1,0 +1,40 @@
+{
+  "Title": "Taken 2",
+  "Year": "2012",
+  "Rated": "PG-13",
+  "Released": "05 Oct 2012",
+  "Runtime": "92 min",
+  "Genre": "Action, Crime, Thriller",
+  "Director": "Olivier Megaton",
+  "Writer": "Luc Besson, Robert Mark Kamen",
+  "Actors": "Liam Neeson, Famke Janssen, Maggie Grace",
+  "Plot": "In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.",
+  "Language": "English, Turkish, Arabic, Albanian",
+  "Country": "France, United States, Turkey, United Kingdom",
+  "Awards": "1 win & 3 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwNTQ0ODExOV5BMl5BanBnXkFtZTcwNjU3NDQwOA@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "22%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "Metascore": "45",
+  "imdbRating": "6.2",
+  "imdbVotes": "323,814",
+  "imdbID": "tt1397280",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$139,854,287",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

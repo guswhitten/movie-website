@@ -1,0 +1,40 @@
+{
+  "Title": "Notting Hill",
+  "Year": "1999",
+  "Rated": "PG-13",
+  "Released": "28 May 1999",
+  "Runtime": "124 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Roger Michell",
+  "Writer": "Richard Curtis",
+  "Actors": "Hugh Grant, Julia Roberts, Richard McCabe",
+  "Plot": "A set of circumstances makes Anna Scott, a famous actress, fall in love with William Thacker, owner of a bookstore in Notting Hill. But the paparazzi's fascination with her complicates their bond.",
+  "Language": "English, Spanish, French",
+  "Country": "United Kingdom, United States",
+  "Awards": "Won 1 BAFTA Award11 wins & 17 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTkwYzYtNDhlNC00MzljLTk1YTktY2IxZjliZmNjMjUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "68/100"
+    }
+  ],
+  "Metascore": "68",
+  "imdbRating": "7.2",
+  "imdbVotes": "345,549",
+  "imdbID": "tt0125439",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$116,089,678",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "The Artist",
+  "Year": "2011",
+  "Rated": "PG-13",
+  "Released": "20 Jan 2012",
+  "Runtime": "100 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Michel Hazanavicius",
+  "Writer": "Michel Hazanavicius",
+  "Actors": "Jean Dujardin, Bérénice Bejo, John Goodman",
+  "Plot": "When George, a silent movie superstar, meets Peppy Miller, a dancer, sparks fly between the two. However, after the introduction of talking pictures, their fortunes change, affecting their dynamic.",
+  "Language": "English, French",
+  "Country": "France, Belgium, United States",
+  "Awards": "Won 5 Oscars. 162 wins & 204 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzYxMjBkNzAtY2M2YS00YjRhLTgzOTYtY2FiOGM2OTBlZjdiXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "89/100"
+    }
+  ],
+  "Metascore": "89",
+  "imdbRating": "7.9",
+  "imdbVotes": "249,138",
+  "imdbID": "tt1655442",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$44,671,682",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

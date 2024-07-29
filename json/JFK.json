@@ -1,0 +1,40 @@
+{
+  "Title": "JFK",
+  "Year": "1991",
+  "Rated": "R",
+  "Released": "20 Dec 1991",
+  "Runtime": "189 min",
+  "Genre": "Drama, History, Thriller",
+  "Director": "Oliver Stone",
+  "Writer": "Jim Garrison, Jim Marrs, Oliver Stone",
+  "Actors": "Kevin Costner, Gary Oldman, Jack Lemmon",
+  "Plot": "New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.",
+  "Language": "English, Spanish",
+  "Country": "United States, France",
+  "Awards": "Won 2 Oscars. 19 wins & 41 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjYyODExMDctZjgwYy00ZjQwLWI4OWYtOGFlYjA4ZjEzNmY1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "8.0",
+  "imdbVotes": "171,388",
+  "imdbID": "tt0102138",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$70,405,498",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

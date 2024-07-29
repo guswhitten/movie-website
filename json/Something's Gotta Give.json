@@ -1,0 +1,40 @@
+{
+  "Title": "Something's Gotta Give",
+  "Year": "2003",
+  "Rated": "PG-13",
+  "Released": "12 Dec 2003",
+  "Runtime": "128 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Nancy Meyers",
+  "Writer": "Nancy Meyers",
+  "Actors": "Jack Nicholson, Diane Keaton, Keanu Reeves",
+  "Plot": "A swinger on the cusp of being a senior citizen with a taste for young women falls in love with an accomplished woman closer to his age.",
+  "Language": "English, French",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 8 wins & 13 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODYyNmRlNDMtYzg1Zi00NzlhLWI4ZDMtZWUwOTQzMDZiYTQyXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "6.7",
+  "imdbVotes": "130,079",
+  "imdbID": "tt0337741",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$124,728,738",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

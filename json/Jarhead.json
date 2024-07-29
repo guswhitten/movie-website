@@ -1,0 +1,40 @@
+{
+  "Title": "Jarhead",
+  "Year": "2005",
+  "Rated": "R",
+  "Released": "04 Nov 2005",
+  "Runtime": "125 min",
+  "Genre": "Biography, Drama, War",
+  "Director": "Sam Mendes",
+  "Writer": "William Broyles Jr., Anthony Swofford",
+  "Actors": "Jake Gyllenhaal, Jamie Foxx, Lucas Black",
+  "Plot": "A psychological study of Marine's state of mind during the Gulf War. Told through the eyes of a U.S. Marine sniper who struggles to cope with boredom, a sense of isolation, and other issues back home.",
+  "Language": "English, Spanish, Arabic, Latin",
+  "Country": "United States, United Kingdom, Germany",
+  "Awards": "6 wins & 12 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYmMyNGM4NWItYjgwYS00N2Q2LWJmY2YtY2ViNWYwMzRhODlmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "7.0",
+  "imdbVotes": "208,065",
+  "imdbID": "tt0418763",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$62,658,220",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

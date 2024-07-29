@@ -1,0 +1,40 @@
+{
+  "Title": "The Usual Suspects",
+  "Year": "1995",
+  "Rated": "R",
+  "Released": "16 Aug 1995",
+  "Runtime": "106 min",
+  "Genre": "Crime, Drama, Mystery",
+  "Director": "Bryan Singer",
+  "Writer": "Christopher McQuarrie",
+  "Actors": "Kevin Spacey, Gabriel Byrne, Chazz Palminteri",
+  "Plot": "The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.",
+  "Language": "English, Hungarian, Spanish, French",
+  "Country": "Germany, United States",
+  "Awards": "Won 2 Oscars. 37 wins & 17 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "Metascore": "77",
+  "imdbRating": "8.5",
+  "imdbVotes": "1,152,714",
+  "imdbID": "tt0114814",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$23,341,568",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

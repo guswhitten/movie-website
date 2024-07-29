@@ -1,0 +1,40 @@
+{
+  "Title": "The Cabin in the Woods",
+  "Year": "2011",
+  "Rated": "R",
+  "Released": "13 Apr 2012",
+  "Runtime": "95 min",
+  "Genre": "Horror, Mystery, Thriller",
+  "Director": "Drew Goddard",
+  "Writer": "Joss Whedon, Drew Goddard",
+  "Actors": "Kristen Connolly, Chris Hemsworth, Anna Hutchison",
+  "Plot": "A group of kids go to a remote cabin in the woods where their fate is unknowingly controlled by technicians as part of a world-wide conspiracy where all horror movie clichés are revealed to be part of an elaborate sacrifice ritual.",
+  "Language": "English, Japanese",
+  "Country": "Canada, United States",
+  "Awards": "20 wins & 34 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "7.0",
+  "imdbVotes": "454,756",
+  "imdbID": "tt1259521",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$42,073,277",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

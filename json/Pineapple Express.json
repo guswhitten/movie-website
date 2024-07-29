@@ -1,0 +1,36 @@
+{
+  "Title": "Pineapple Express",
+  "Year": "2008",
+  "Rated": "R",
+  "Released": "06 Aug 2008",
+  "Runtime": "111 min",
+  "Genre": "Action, Comedy, Crime",
+  "Director": "David Gordon Green",
+  "Writer": "Seth Rogen, Evan Goldberg, Judd Apatow",
+  "Actors": "Seth Rogen, James Franco, Gary Cole",
+  "Plot": "A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him.",
+  "Language": "English, Cantonese, Korean",
+  "Country": "United States, Russia, North Korea",
+  "Awards": "2 wins & 15 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1MTE4NzAwM15BMl5BanBnXkFtZTcwNzg3Mjg2MQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "6.9",
+  "imdbVotes": "358,920",
+  "imdbID": "tt0910936",
+  "Type": "movie",
+  "DVD": "22 May 2017",
+  "BoxOffice": "$87,341,380",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

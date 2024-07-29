@@ -1,0 +1,40 @@
+{
+  "Title": "Once Upon a Time... in Hollywood",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "26 Jul 2019",
+  "Runtime": "161 min",
+  "Genre": "Comedy, Drama",
+  "Director": "Quentin Tarantino",
+  "Writer": "Quentin Tarantino",
+  "Actors": "Leonardo DiCaprio, Brad Pitt, Margot Robbie",
+  "Plot": "As Hollywood's Golden Age is winding down during the summer of 1969, television actor Rick Dalton and his stunt double Cliff Booth endeavor to achieve lasting success in Hollywood while meeting several colorful characters along th...",
+  "Language": "English, Italian, Spanish, German",
+  "Country": "United States, United Kingdom, China",
+  "Awards": "Won 2 Oscars. 147 wins & 378 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.6",
+  "imdbVotes": "859,996",
+  "imdbID": "tt7131622",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$142,502,728",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

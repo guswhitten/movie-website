@@ -1,0 +1,40 @@
+{
+  "Title": "The King",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "01 Nov 2019",
+  "Runtime": "140 min",
+  "Genre": "Biography, Drama, History",
+  "Director": "David Michôd",
+  "Writer": "David Michôd, Joel Edgerton",
+  "Actors": "Tom Glynn-Carney, Gábor Czap, Tom Fisher",
+  "Plot": "Young Henry V encounters deceit, war and treachery after becoming King of England in the 15th century, in the aftermath of his brother's death.",
+  "Language": "English, French, Latin",
+  "Country": "United Kingdom, Hungary, United States, Australia",
+  "Awards": "13 wins & 28 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWZkNzNlMzMtMjM5ZS00MWYzLWFmMmUtMjE1ODM3NjBlODA5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "71%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "7.3",
+  "imdbVotes": "154,776",
+  "imdbID": "tt7984766",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

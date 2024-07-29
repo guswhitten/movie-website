@@ -1,0 +1,40 @@
+{
+  "Title": "Following",
+  "Year": "1998",
+  "Rated": "R",
+  "Released": "05 Nov 1999",
+  "Runtime": "69 min",
+  "Genre": "Crime, Mystery, Thriller",
+  "Director": "Christopher Nolan",
+  "Writer": "Christopher Nolan",
+  "Actors": "Jeremy Theobald, Alex Haw, Lucy Russell",
+  "Plot": "A young writer who follows strangers for material meets a thief who takes him under his wing.",
+  "Language": "English",
+  "Country": "United Kingdom",
+  "Awards": "5 wins & 4 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDVhYTAyMDgtM2NhNS00MmQ3LWE0ZDMtNWIxMjlhODFmOWUwXkEyXkFqcGdeQXVyMTA5NjIyODcx._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "Metascore": "60",
+  "imdbRating": "7.4",
+  "imdbVotes": "102,420",
+  "imdbID": "tt0154506",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$48,482",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

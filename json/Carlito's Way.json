@@ -1,0 +1,40 @@
+{
+  "Title": "Carlito's Way",
+  "Year": "1993",
+  "Rated": "R",
+  "Released": "12 Nov 1993",
+  "Runtime": "144 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Brian De Palma",
+  "Writer": "Edwin Torres, David Koepp",
+  "Actors": "Al Pacino, Sean Penn, Penelope Ann Miller",
+  "Plot": "A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.",
+  "Language": "English, Spanish, French",
+  "Country": "United States",
+  "Awards": "2 wins & 9 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzBhY2E0OWYtYzRmNC00ZGY3LTllODYtNTExM2FmYTFkMGUwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "7.9",
+  "imdbVotes": "233,564",
+  "imdbID": "tt0106519",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$36,948,322",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

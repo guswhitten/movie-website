@@ -1,0 +1,40 @@
+{
+  "Title": "The Others",
+  "Year": "2001",
+  "Rated": "PG-13",
+  "Released": "10 Aug 2001",
+  "Runtime": "104 min",
+  "Genre": "Horror, Mystery, Thriller",
+  "Director": "Alejandro Amenábar",
+  "Writer": "Alejandro Amenábar",
+  "Actors": "Nicole Kidman, Christopher Eccleston, Fionnula Flanagan",
+  "Plot": "In 1945, immediately following the end of Second World War, a woman who lives with her two photosensitive children on her darkened old family estate in the Channel Islands becomes convinced that the home is haunted.",
+  "Language": "English",
+  "Country": "Spain, France, United States",
+  "Awards": "Nominated for 2 BAFTA 29 wins & 55 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjVhMmM3ZTMtNzIzOS00YTY4LTkxNTAtOTA5Mjk3YzMwMzA2XkEyXkFqcGdeQXVyNDE0OTU3NDY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "Metascore": "74",
+  "imdbRating": "7.6",
+  "imdbVotes": "396,161",
+  "imdbID": "tt0230600",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$96,578,502",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

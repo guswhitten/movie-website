@@ -1,0 +1,40 @@
+{
+  "Title": "Monos",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "15 Aug 2019",
+  "Runtime": "102 min",
+  "Genre": "Adventure, Drama, Thriller",
+  "Director": "Alejandro Landes",
+  "Writer": "Alejandro Landes, Alexis Dos Santos",
+  "Actors": "Sofia Buenaventura, Julián Giraldo, Karen Quintero",
+  "Plot": "On a remote mountaintop, eight kids with guns watch over a hostage and a conscripted milk cow.",
+  "Language": "Spanish, English",
+  "Country": "Colombia, Argentina, Netherlands, Germany, Sweden, Uruguay, United States, Switzerland, Denmark, France",
+  "Awards": "36 wins & 69 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTA0ZDllNTYtY2ExYS00NGJlLWEzNGEtMjhkMzdhYjViMjZiXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "6.8",
+  "imdbVotes": "19,016",
+  "imdbID": "tt6062774",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$406,473",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

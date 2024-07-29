@@ -1,0 +1,40 @@
+{
+  "Title": "Jurassic Park III",
+  "Year": "2001",
+  "Rated": "PG-13",
+  "Released": "18 Jul 2001",
+  "Runtime": "92 min",
+  "Genre": "Action, Adventure, Sci-Fi",
+  "Director": "Joe Johnston",
+  "Writer": "Michael Crichton, Peter Buchman, Alexander Payne",
+  "Actors": "Sam Neill, William H. Macy, Téa Leoni",
+  "Plot": "A decidedly odd couple with ulterior motives convince Dr. Grant to go to Isla Sorna for a holiday, but their unexpected landing startles the island's new inhabitants.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "5 wins & 16 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDMyZGJjOGItYjJkZC00MDVlLWE0Y2YtZGIwMDExYWE3MGQ3XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "49%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "Metascore": "42",
+  "imdbRating": "5.9",
+  "imdbVotes": "343,003",
+  "imdbID": "tt0163025",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$181,171,875",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

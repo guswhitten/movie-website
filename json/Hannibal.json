@@ -1,0 +1,40 @@
+{
+  "Title": "Hannibal",
+  "Year": "2001",
+  "Rated": "R",
+  "Released": "09 Feb 2001",
+  "Runtime": "131 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Ridley Scott",
+  "Writer": "Thomas Harris, David Mamet, Steven Zaillian",
+  "Actors": "Anthony Hopkins, Julianne Moore, Gary Oldman",
+  "Plot": "Living in exile, Dr. Hannibal Lecter tries to reconnect with now disgraced F.B.I. Agent Clarice Starling, and finds himself a target for revenge from a powerful victim.",
+  "Language": "English, Italian, Japanese",
+  "Country": "United States, United Kingdom, Italy",
+  "Awards": "9 wins & 25 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDMxMjhiZmItNWMxMC00NzYyLWJiOTYtNGYwOTAyYjU5OWY4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "Metascore": "57",
+  "imdbRating": "6.8",
+  "imdbVotes": "295,655",
+  "imdbID": "tt0212985",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$165,092,268",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

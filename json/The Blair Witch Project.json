@@ -1,0 +1,40 @@
+{
+  "Title": "The Blair Witch Project",
+  "Year": "1999",
+  "Rated": "R",
+  "Released": "30 Jul 1999",
+  "Runtime": "81 min",
+  "Genre": "Horror, Mystery",
+  "Director": "Daniel Myrick, Eduardo Sánchez",
+  "Writer": "Daniel Myrick, Eduardo Sánchez, Heather Donahue",
+  "Actors": "Heather Donahue, Michael C. Williams, Joshua Leonard",
+  "Plot": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "23 wins & 26 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ1NDBlNDItMDAyYS00YTI2LTgwMmYtMzAwMzg4NDFlM2ZmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "6.5",
+  "imdbVotes": "287,508",
+  "imdbID": "tt0185937",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$140,539,099",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

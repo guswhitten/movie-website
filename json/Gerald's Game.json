@@ -1,0 +1,40 @@
+{
+  "Title": "Gerald's Game",
+  "Year": "2017",
+  "Rated": "TV-MA",
+  "Released": "29 Sep 2017",
+  "Runtime": "103 min",
+  "Genre": "Drama, Horror, Thriller",
+  "Director": "Mike Flanagan",
+  "Writer": "Mike Flanagan, Jeff Howard, Stephen King",
+  "Actors": "Carla Gugino, Bruce Greenwood, Chiara Aurelia",
+  "Plot": "A couple tries to spice up their marriage in a remote lake house. After the husband dies unexpectedly, the wife is left handcuffed to their bed frame and must fight to survive and break free.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "4 wins & 5 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzg0NGE0N2MtYTg1My00NTBkLWI5NjEtZTgyMDA0MTU4MmIyXkEyXkFqcGdeQXVyMTU2NTcyMg@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "Metascore": "77",
+  "imdbRating": "6.5",
+  "imdbVotes": "128,760",
+  "imdbID": "tt3748172",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Before Sunset",
+  "Year": "2004",
+  "Rated": "R",
+  "Released": "30 Jul 2004",
+  "Runtime": "80 min",
+  "Genre": "Drama, Romance",
+  "Director": "Richard Linklater",
+  "Writer": "Richard Linklater, Julie Delpy, Ethan Hawke",
+  "Actors": "Ethan Hawke, Julie Delpy, Vernon Dobtcheff",
+  "Plot": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+  "Language": "English, French",
+  "Country": "France, United States",
+  "Awards": "Nominated for 1 Oscar. 9 wins & 32 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "Metascore": "91",
+  "imdbRating": "8.1",
+  "imdbVotes": "290,545",
+  "imdbID": "tt0381681",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$5,820,649",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

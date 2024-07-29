@@ -1,0 +1,40 @@
+{
+  "Title": "Cinderella Man",
+  "Year": "2005",
+  "Rated": "PG-13",
+  "Released": "03 Jun 2005",
+  "Runtime": "144 min",
+  "Genre": "Biography, Drama, Romance",
+  "Director": "Ron Howard",
+  "Writer": "Cliff Hollingsworth, Akiva Goldsman",
+  "Actors": "Russell Crowe, Renée Zellweger, Craig Bierko",
+  "Plot": "The true story of James J. Braddock, a supposedly washed-up boxer, who returned to the spotlight to win the heavyweight championship of the world.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 3 Oscars. 16 wins & 45 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTkyMmZmNTYtMTE3MS00NmZlLWIyOGQtZGU2Y2YyMjBlZmI0XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "Metascore": "69",
+  "imdbRating": "8.0",
+  "imdbVotes": "199,290",
+  "imdbID": "tt0352248",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$61,649,911",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

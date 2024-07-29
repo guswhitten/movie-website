@@ -1,0 +1,40 @@
+{
+  "Title": "The Strangers",
+  "Year": "2008",
+  "Rated": "R",
+  "Released": "30 May 2008",
+  "Runtime": "86 min",
+  "Genre": "Horror, Mystery, Thriller",
+  "Director": "Bryan Bertino",
+  "Writer": "Bryan Bertino",
+  "Actors": "Scott Speedman, Liv Tyler, Gemma Ward",
+  "Plot": "James Hoyt and Kristen McKay visit an isolated vacation home to enjoy some time together. However, they are in for a rude surprise when three masked assailants make their stay a nightmare.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 15 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjZlZDE5MmItYzJiZi00MzVkLTk4ZGYtNTQ4NWRkNDdjODMzXkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "49%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "Metascore": "47",
+  "imdbRating": "6.1",
+  "imdbVotes": "146,743",
+  "imdbID": "tt0482606",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$52,597,610",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Monty Python and the Holy Grail",
+  "Year": "1975",
+  "Rated": "PG",
+  "Released": "25 May 1975",
+  "Runtime": "91 min",
+  "Genre": "Adventure, Comedy, Fantasy",
+  "Director": "Terry Gilliam, Terry Jones",
+  "Writer": "Graham Chapman, John Cleese, Eric Idle",
+  "Actors": "Graham Chapman, John Cleese, Eric Idle",
+  "Plot": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+  "Language": "English, French, Latin, Swedish",
+  "Country": "United Kingdom",
+  "Awards": "2 wins & 6 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "Metascore": "91",
+  "imdbRating": "8.2",
+  "imdbVotes": "573,313",
+  "imdbID": "tt0071853",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$2,562,392",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

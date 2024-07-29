@@ -1,0 +1,40 @@
+{
+  "Title": "As Good as It Gets",
+  "Year": "1997",
+  "Rated": "PG-13",
+  "Released": "25 Dec 1997",
+  "Runtime": "139 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "James L. Brooks",
+  "Writer": "Mark Andrus, James L. Brooks",
+  "Actors": "Jack Nicholson, Helen Hunt, Greg Kinnear",
+  "Plot": "A single mother and waitress, a misanthropic author, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Won 2 Oscars. 38 wins & 54 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWMxZTgzMWEtMTU0Zi00NDc5LWFkZjctMzUxNDIyNzZiMmNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "7.7",
+  "imdbVotes": "320,554",
+  "imdbID": "tt0119822",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$148,478,011",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

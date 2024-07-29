@@ -1,0 +1,40 @@
+{
+  "Title": "Conan the Destroyer",
+  "Year": "1984",
+  "Rated": "PG",
+  "Released": "29 Jun 1984",
+  "Runtime": "103 min",
+  "Genre": "Action, Adventure, Fantasy",
+  "Director": "Richard Fleischer",
+  "Writer": "Robert E. Howard, Roy Thomas, Gerry Conway",
+  "Actors": "Arnold Schwarzenegger, Grace Jones, Olivia d'Abo",
+  "Plot": "Conan leads a ragtag group of adventurers on a quest for a princess.",
+  "Language": "English",
+  "Country": "United States, Mexico",
+  "Awards": "1 win & 3 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTMzMzE3ZTQtODE4Yi00ODhiLWI3NWItOGVhNjllNjY3MzA2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "26%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "53/100"
+    }
+  ],
+  "Metascore": "53",
+  "imdbRating": "5.9",
+  "imdbVotes": "85,899",
+  "imdbID": "tt0087078",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$31,042,035",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Deadpool 2",
+  "Year": "2018",
+  "Rated": "R",
+  "Released": "18 May 2018",
+  "Runtime": "119 min",
+  "Genre": "Action, Adventure, Comedy",
+  "Director": "David Leitch",
+  "Writer": "Rhett Reese, Paul Wernick, Ryan Reynolds",
+  "Actors": "Ryan Reynolds, Josh Brolin, Morena Baccarin",
+  "Plot": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with abilities from the brutal, time-traveling cyborg Cable.",
+  "Language": "English, Cantonese, Spanish, Russian",
+  "Country": "United States, Canada",
+  "Awards": "6 wins & 52 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NTk2MTYtMWZlYS00ZTliLThmZTEtNDVkODgxNmQ2ZGM2XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "84%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "66/100"
+    }
+  ],
+  "Metascore": "66",
+  "imdbRating": "7.6",
+  "imdbVotes": "654,187",
+  "imdbID": "tt5463162",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$324,591,735",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

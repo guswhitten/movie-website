@@ -1,0 +1,40 @@
+{
+  "Title": "Black Hawk Down",
+  "Year": "2001",
+  "Rated": "R",
+  "Released": "18 Jan 2002",
+  "Runtime": "144 min",
+  "Genre": "Action, Drama, History",
+  "Director": "Ridley Scott",
+  "Writer": "Mark Bowden, Ken Nolan",
+  "Actors": "Josh Hartnett, Ewan McGregor, Tom Sizemore",
+  "Plot": "The story of 160 elite U.S. soldiers who dropped into Mogadishu in October 1993 to capture two top lieutenants of a renegade warlord, but found themselves in a desperate battle with a large force of heavily armed Somalis.",
+  "Language": "English, Somali, Arabic",
+  "Country": "United States, United Kingdom",
+  "Awards": "Won 2 Oscars. 11 wins & 37 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYWMwMzQxZjQtODM1YS00YmFiLTk1YjQtNzNiYWY1MDE4NTdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "74/100"
+    }
+  ],
+  "Metascore": "74",
+  "imdbRating": "7.7",
+  "imdbVotes": "426,645",
+  "imdbID": "tt0265086",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$108,638,745",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

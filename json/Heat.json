@@ -1,0 +1,40 @@
+{
+  "Title": "Heat",
+  "Year": "1995",
+  "Rated": "R",
+  "Released": "15 Dec 1995",
+  "Runtime": "170 min",
+  "Genre": "Action, Crime, Drama",
+  "Director": "Michael Mann",
+  "Writer": "Michael Mann",
+  "Actors": "Al Pacino, Robert De Niro, Val Kilmer",
+  "Plot": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "15 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "83%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "Metascore": "76",
+  "imdbRating": "8.3",
+  "imdbVotes": "724,024",
+  "imdbID": "tt0113277",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$67,436,818",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

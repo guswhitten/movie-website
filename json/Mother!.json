@@ -1,0 +1,40 @@
+{
+  "Title": "Mother!",
+  "Year": "2017",
+  "Rated": "R",
+  "Released": "15 Sep 2017",
+  "Runtime": "121 min",
+  "Genre": "Drama, Horror, Mystery",
+  "Director": "Darren Aronofsky",
+  "Writer": "Darren Aronofsky",
+  "Actors": "Jennifer Lawrence, Javier Bardem, Ed Harris",
+  "Plot": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "9 wins & 53 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "68%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "Metascore": "76",
+  "imdbRating": "6.6",
+  "imdbVotes": "251,287",
+  "imdbID": "tt5109784",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$17,800,004",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

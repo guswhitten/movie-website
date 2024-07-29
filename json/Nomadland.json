@@ -1,0 +1,40 @@
+{
+  "Title": "Nomadland",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "19 Feb 2021",
+  "Runtime": "107 min",
+  "Genre": "Drama",
+  "Director": "Chloé Zhao",
+  "Writer": "Chloé Zhao, Jessica Bruder",
+  "Actors": "Frances McDormand, David Strathairn, Linda May",
+  "Plot": "A woman in her sixties, after losing everything in the Great Recession, embarks on a journey through the American West, living as a van-dwelling modern-day nomad.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Won 3 Oscars. 254 wins & 155 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDRiZWUxNmItNDU5Yy00ODNmLTk0M2ItZjQzZTA5OTJkZjkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "Metascore": "91",
+  "imdbRating": "7.3",
+  "imdbVotes": "185,274",
+  "imdbID": "tt9770150",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$3,700,000",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

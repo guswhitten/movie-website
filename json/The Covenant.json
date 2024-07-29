@@ -1,0 +1,40 @@
+{
+  "Title": "The Covenant",
+  "Year": "2006",
+  "Rated": "PG-13",
+  "Released": "08 Sep 2006",
+  "Runtime": "97 min",
+  "Genre": "Adventure, Fantasy, Horror",
+  "Director": "Renny Harlin",
+  "Writer": "J.S. Cardone",
+  "Actors": "Steven Strait, Sebastian Stan, Toby Hemingway",
+  "Plot": "Four young men who belong to a New England supernatural legacy are forced to battle an elusive fifth power.",
+  "Language": "English",
+  "Country": "United States, Canada",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjI1MTM1OTEwMV5BMl5BanBnXkFtZTcwODYzNzUzMQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "4%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "19/100"
+    }
+  ],
+  "Metascore": "19",
+  "imdbRating": "5.2",
+  "imdbVotes": "52,238",
+  "imdbID": "tt0475944",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$23,380,495",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

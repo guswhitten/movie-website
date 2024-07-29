@@ -1,0 +1,40 @@
+{
+  "Title": "Apollo 13",
+  "Year": "1995",
+  "Rated": "PG",
+  "Released": "30 Jun 1995",
+  "Runtime": "140 min",
+  "Genre": "Adventure, Drama, History",
+  "Director": "Ron Howard",
+  "Writer": "Jim Lovell, Jeffrey Kluger, William Broyles Jr.",
+  "Actors": "Tom Hanks, Bill Paxton, Kevin Bacon",
+  "Plot": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+  "Language": "English",
+  "Country": "United States, United Kingdom, Canada, Japan",
+  "Awards": "Won 2 Oscars. 31 wins & 59 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjc4MzZlNmQtN2ZlOS00OGQzLWI5YjEtNDQ2YmZlN2FjNTIxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "Metascore": "77",
+  "imdbRating": "7.7",
+  "imdbVotes": "318,175",
+  "imdbID": "tt0112384",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$173,837,933",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

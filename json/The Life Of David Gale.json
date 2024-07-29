@@ -1,0 +1,40 @@
+{
+  "Title": "The Life of David Gale",
+  "Year": "2003",
+  "Rated": "R",
+  "Released": "21 Feb 2003",
+  "Runtime": "130 min",
+  "Genre": "Crime, Drama, Mystery",
+  "Director": "Alan Parker",
+  "Writer": "Charles Randolph",
+  "Actors": "Kevin Spacey, Kate Winslet, Laura Linney",
+  "Plot": "A man against capital punishment is accused of murdering a fellow activist and is sent to death row.",
+  "Language": "English, Spanish",
+  "Country": "United Kingdom, Germany, Spain, United States",
+  "Awards": "3 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTAxMzU0NTgxNzZeQTJeQWpwZ15BbWU2MDQzNDkxNw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "19%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "31/100"
+    }
+  ],
+  "Metascore": "31",
+  "imdbRating": "7.5",
+  "imdbVotes": "126,532",
+  "imdbID": "tt0289992",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$19,955,598",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

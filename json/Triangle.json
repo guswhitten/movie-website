@@ -1,0 +1,36 @@
+{
+  "Title": "Triangle",
+  "Year": "2009",
+  "Rated": "R",
+  "Released": "16 Oct 2009",
+  "Runtime": "99 min",
+  "Genre": "Fantasy, Mystery, Sci-Fi",
+  "Director": "Christopher Smith",
+  "Writer": "Christopher Smith",
+  "Actors": "Melissa George, Joshua McIvor, Jack Taylor",
+  "Plot": "Five friends set sail and their yacht is overturned by a strange and sudden storm. A mysterious ship arrives to rescue them, and what happens next cannot be explained.",
+  "Language": "English",
+  "Country": "United Kingdom, Australia, United States",
+  "Awards": "1 win & 5 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BY2VlODI5ZmMtZDExYS00OWI4LWJiMWItZWZkZWRkNzlmZWI2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "79%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbVotes": "130,995",
+  "imdbID": "tt1187064",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

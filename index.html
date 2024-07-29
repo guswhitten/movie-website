@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Movie Collection</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>My Movie Collection</h1>
+    <input type="text" id="search" placeholder="Search movies...">
+    <h4 id="movie-count"></h4>
+    
+    <div id="pagination">
+        <button id="prev-page-top" onclick="prevPage()">Previous</button>
+        <span id="curr-page-top"></span>
+        <button id="next-page-top" onclick="nextPage()">Next</button>
+    </div>
+
+    <ul id="movie-list"></ul>
+
+    <div id="pagination">
+        <button id="prev-page-bottom" onclick="prevPage()">Previous</button>
+        <span id="curr-page-bottom"></span>
+        <button id="next-page-bottom" onclick="nextPage()">Next</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+{
+  "Title": "Das Boot",
+  "Year": "1981",
+  "Rated": "R",
+  "Released": "10 Feb 1982",
+  "Runtime": "149 min",
+  "Genre": "Drama, War",
+  "Director": "Wolfgang Petersen",
+  "Writer": "Wolfgang Petersen, Lothar G. Buchheim",
+  "Actors": "Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann",
+  "Plot": "A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.",
+  "Language": "German",
+  "Country": "West Germany, Italy, France, United Kingdom",
+  "Awards": "Nominated for 6 Oscars. 13 wins & 12 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "Metascore": "86",
+  "imdbRating": "8.4",
+  "imdbVotes": "265,464",
+  "imdbID": "tt0082096",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$11,487,676",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Lawrence of Arabia",
+  "Year": "1962",
+  "Rated": "PG",
+  "Released": "11 Dec 1962",
+  "Runtime": "218 min",
+  "Genre": "Adventure, Biography, Drama",
+  "Director": "David Lean",
+  "Writer": "Robert Bolt, Michael Wilson",
+  "Actors": "Peter O'Toole, Alec Guinness, Anthony Quinn",
+  "Plot": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+  "Language": "English, Arabic, Turkish",
+  "Country": "United Kingdom",
+  "Awards": "Won 7 Oscars. 31 wins & 14 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "100/100"
+    }
+  ],
+  "Metascore": "100",
+  "imdbRating": "8.3",
+  "imdbVotes": "316,103",
+  "imdbID": "tt0056172",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$45,306,425",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

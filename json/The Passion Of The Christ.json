@@ -1,0 +1,40 @@
+{
+  "Title": "The Passion of the Christ",
+  "Year": "2004",
+  "Rated": "R",
+  "Released": "25 Feb 2004",
+  "Runtime": "127 min",
+  "Genre": "Drama",
+  "Director": "Mel Gibson",
+  "Writer": "Benedict Fitzgerald, Mel Gibson",
+  "Actors": "Jim Caviezel, Monica Bellucci, Maia Morgenstern",
+  "Plot": "Depicts the final twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem.",
+  "Language": "Aramaic, Latin, Hebrew, English",
+  "Country": "United States",
+  "Awards": "Nominated for 3 Oscars. 30 wins & 24 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "49%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "47/100"
+    }
+  ],
+  "Metascore": "47",
+  "imdbRating": "7.2",
+  "imdbVotes": "252,189",
+  "imdbID": "tt0335345",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$370,782,930",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

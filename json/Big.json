@@ -1,0 +1,40 @@
+{
+  "Title": "Big",
+  "Year": "1988",
+  "Rated": "PG",
+  "Released": "03 Jun 1988",
+  "Runtime": "104 min",
+  "Genre": "Comedy, Drama, Fantasy",
+  "Director": "Penny Marshall",
+  "Writer": "Gary Ross, Anne Spielberg",
+  "Actors": "Tom Hanks, Elizabeth Perkins, Robert Loggia",
+  "Plot": "After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.",
+  "Language": "English, Spanish",
+  "Country": "United States",
+  "Awards": "Nominated for 2 Oscars. 11 wins & 14 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ1ODM5MTMtMjAwYi00ZGUxLTliNTMtN2ZhODAwMjVhMTRlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "73/100"
+    }
+  ],
+  "Metascore": "73",
+  "imdbRating": "7.3",
+  "imdbVotes": "241,335",
+  "imdbID": "tt0094737",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$115,227,281",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

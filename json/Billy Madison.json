@@ -1,0 +1,40 @@
+{
+  "Title": "Billy Madison",
+  "Year": "1995",
+  "Rated": "PG-13",
+  "Released": "10 Feb 1995",
+  "Runtime": "89 min",
+  "Genre": "Comedy",
+  "Director": "Tamra Davis",
+  "Writer": "Tim Herlihy, Adam Sandler",
+  "Actors": "Adam Sandler, Darren McGavin, Bridgette Wilson-Sampras",
+  "Plot": "In order to inherit his fed-up father Brian's hotel empire, immature and lazy Billy Madison must repeat grades one through twelve all over again. The further Billy progresses, the harder his hated rival Eric Gordon tries to stop him.",
+  "Language": "English, French, Spanish",
+  "Country": "United States",
+  "Awards": "1 nomination",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzcyMjZmNjctNGNhMS00ZmQxLWFkNzQtYTIxYjVkYmU1NmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "40%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "16/100"
+    }
+  ],
+  "Metascore": "16",
+  "imdbRating": "6.4",
+  "imdbVotes": "157,928",
+  "imdbID": "tt0112508",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$25,588,734",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

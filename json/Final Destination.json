@@ -1,0 +1,40 @@
+{
+  "Title": "Final Destination",
+  "Year": "2000",
+  "Rated": "R",
+  "Released": "17 Mar 2000",
+  "Runtime": "98 min",
+  "Genre": "Horror, Thriller",
+  "Director": "James Wong",
+  "Writer": "Glen Morgan, James Wong, Jeffrey Reddick",
+  "Actors": "Devon Sawa, Ali Larter, Kerr Smith",
+  "Plot": "After getting a premonition about a plane crash on his school trip, Alex, a student saves a few of his classmates. However, their situation gets complicated when death starts chasing them.",
+  "Language": "English, French",
+  "Country": "United States",
+  "Awards": "3 wins & 5 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTI0NGM2OGYtNzVmMi00NGQ2LTk2MDAtN2RmYjIzMGRkZGYxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "36%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "36/100"
+    }
+  ],
+  "Metascore": "36",
+  "imdbRating": "6.7",
+  "imdbVotes": "281,448",
+  "imdbID": "tt0195714",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$53,331,147",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

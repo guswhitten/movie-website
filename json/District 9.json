@@ -1,0 +1,40 @@
+{
+  "Title": "District 9",
+  "Year": "2009",
+  "Rated": "R",
+  "Released": "14 Aug 2009",
+  "Runtime": "112 min",
+  "Genre": "Action, Sci-Fi, Thriller",
+  "Director": "Neill Blomkamp",
+  "Writer": "Neill Blomkamp, Terri Tatchell",
+  "Actors": "Sharlto Copley, David James, Jason Cope",
+  "Plot": "Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.",
+  "Language": "English, Nyanja, Afrikaans, Zulu, Xhosa, Sotho",
+  "Country": "South Africa, United States, New Zealand, Canada",
+  "Awards": "Nominated for 4 Oscars. 32 wins & 117 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OTI1OTM5NF5BMl5BanBnXkFtZTcwMzk5MTU1Mg@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "7.9",
+  "imdbVotes": "720,972",
+  "imdbID": "tt1136608",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$115,646,235",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

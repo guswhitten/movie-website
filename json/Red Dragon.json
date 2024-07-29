@@ -1,0 +1,40 @@
+{
+  "Title": "Red Dragon",
+  "Year": "2002",
+  "Rated": "R",
+  "Released": "04 Oct 2002",
+  "Runtime": "124 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Brett Ratner",
+  "Writer": "Thomas Harris, Ted Tally",
+  "Actors": "Anthony Hopkins, Edward Norton, Ralph Fiennes",
+  "Plot": "A retired FBI agent with psychological gifts is assigned to help track down \"The Tooth Fairy\", a mysterious serial killer. Aiding him is imprisoned forensic psychiatrist Dr. Hannibal \"The Cannibal\" Lecter.",
+  "Language": "English, French",
+  "Country": "Germany, United States, Italy",
+  "Awards": "4 wins & 10 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTAwZDI1OTctN2Q5YS00OGNiLWIyMmUtYWM4ZGFjYWYyYzJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "69%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "60/100"
+    }
+  ],
+  "Metascore": "60",
+  "imdbRating": "7.2",
+  "imdbVotes": "292,387",
+  "imdbID": "tt0289765",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$93,149,898",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Evil Dead II",
+  "Year": "1987",
+  "Rated": "R",
+  "Released": "13 Mar 1987",
+  "Runtime": "84 min",
+  "Genre": "Comedy, Horror",
+  "Director": "Sam Raimi",
+  "Writer": "Sam Raimi, Scott Spiegel",
+  "Actors": "Bruce Campbell, Sarah Berry, Dan Hicks",
+  "Plot": "Ash Williams, the lone survivor of an earlier onslaught of flesh-possessing spirits, holes up in a cabin with a group of strangers while the demons continue their attack.",
+  "Language": "English, Latin",
+  "Country": "United States",
+  "Awards": "1 win & 5 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWY3ODZlOGMtNzJmOS00ZTNjLWI3ZWEtZTJhZTk5NDZjYWRjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "88%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "7.7",
+  "imdbVotes": "183,359",
+  "imdbID": "tt0092991",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$5,923,044",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

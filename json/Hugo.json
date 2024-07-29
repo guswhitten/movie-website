@@ -1,0 +1,40 @@
+{
+  "Title": "Hugo",
+  "Year": "2011",
+  "Rated": "PG",
+  "Released": "23 Nov 2011",
+  "Runtime": "126 min",
+  "Genre": "Adventure, Drama, Family",
+  "Director": "Martin Scorsese",
+  "Writer": "John Logan, Brian Selznick",
+  "Actors": "Asa Butterfield, Chloë Grace Moretz, Christopher Lee",
+  "Plot": "In 1931 Paris, an orphan living in the walls of a train station gets wrapped up in a mystery involving his late father and an automaton.",
+  "Language": "English",
+  "Country": "United States, United Kingdom",
+  "Awards": "Won 5 Oscars. 61 wins & 192 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzNzk5MzgyNF5BMl5BanBnXkFtZTcwOTE4NDU5Ng@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "83/100"
+    }
+  ],
+  "Metascore": "83",
+  "imdbRating": "7.5",
+  "imdbVotes": "337,955",
+  "imdbID": "tt0970179",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$73,864,507",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

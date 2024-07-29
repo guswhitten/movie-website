@@ -1,0 +1,40 @@
+{
+  "Title": "Mission: Impossible",
+  "Year": "1996",
+  "Rated": "PG-13",
+  "Released": "22 May 1996",
+  "Runtime": "110 min",
+  "Genre": "Action, Adventure, Thriller",
+  "Director": "Brian De Palma",
+  "Writer": "Bruce Geller, David Koepp, Steven Zaillian",
+  "Actors": "Tom Cruise, Jon Voight, Emmanuelle Béart",
+  "Plot": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+  "Language": "English, French, Czech",
+  "Country": "United States, Czech Republic",
+  "Awards": "3 wins & 17 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTFhMWY3ZTctNTJlOC00Y2UwLThmOGUtMWU4NDI1Yzg4ODRkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "59/100"
+    }
+  ],
+  "Metascore": "59",
+  "imdbRating": "7.2",
+  "imdbVotes": "473,878",
+  "imdbID": "tt0117060",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$180,981,856",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

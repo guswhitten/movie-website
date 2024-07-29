@@ -1,0 +1,40 @@
+{
+  "Title": "The Dark Knight Rises",
+  "Year": "2012",
+  "Rated": "PG-13",
+  "Released": "20 Jul 2012",
+  "Runtime": "164 min",
+  "Genre": "Action, Drama, Thriller",
+  "Director": "Christopher Nolan",
+  "Writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+  "Actors": "Christian Bale, Tom Hardy, Anne Hathaway",
+  "Plot": "Eight years after the Joker's reign of chaos, Batman is coerced out of exile with the assistance of the mysterious Selina Kyle in order to defend Gotham City from the vicious guerrilla terrorist Bane.",
+  "Language": "English, Arabic",
+  "Country": "United States, United Kingdom",
+  "Awards": "Nominated for 1 BAFTA Award45 wins & 103 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "87%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "8.4",
+  "imdbVotes": "1,843,828",
+  "imdbID": "tt1345836",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$448,149,584",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

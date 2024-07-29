@@ -1,0 +1,40 @@
+{
+  "Title": "Texas Chainsaw Massacre",
+  "Year": "2022",
+  "Rated": "R",
+  "Released": "18 Feb 2022",
+  "Runtime": "81 min",
+  "Genre": "Crime, Horror, Thriller",
+  "Director": "David Blue Garcia",
+  "Writer": "Chris Thomas Devlin, Fede Alvarez, Rodo Sayagues",
+  "Actors": "Sarah Yarkin, Elsie Fisher, Mark Burnham",
+  "Plot": "Influencers looking to breathe new life into a Texas ghost town encounter Leatherface, an infamous killer who wears a mask of human skin.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDU4Yzk1NmUtNDU4OC00YzVmLTgwOTUtYTY2NjNmMjY5YjVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "4.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "30%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "Metascore": "34",
+  "imdbRating": "4.7",
+  "imdbVotes": "62,224",
+  "imdbID": "tt11755740",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Arrival",
+  "Year": "2016",
+  "Rated": "PG-13",
+  "Released": "11 Nov 2016",
+  "Runtime": "116 min",
+  "Genre": "Drama, Mystery, Sci-Fi",
+  "Director": "Denis Villeneuve",
+  "Writer": "Eric Heisserer, Ted Chiang",
+  "Actors": "Amy Adams, Jeremy Renner, Forest Whitaker",
+  "Plot": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+  "Language": "English, Mandarin, Russian",
+  "Country": "United States, Canada",
+  "Awards": "Won 1 Oscar. 69 wins & 268 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "7.9",
+  "imdbVotes": "780,608",
+  "imdbID": "tt2543164",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$100,546,139",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

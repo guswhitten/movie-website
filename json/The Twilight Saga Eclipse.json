@@ -1,0 +1,40 @@
+{
+  "Title": "The Twilight Saga: Eclipse",
+  "Year": "2010",
+  "Rated": "PG-13",
+  "Released": "30 Jun 2010",
+  "Runtime": "124 min",
+  "Genre": "Action, Adventure, Drama",
+  "Director": "David Slade",
+  "Writer": "Melissa Rosenberg, Stephenie Meyer",
+  "Actors": "Kristen Stewart, Robert Pattinson, Taylor Lautner",
+  "Plot": "As a string of mysterious killings grips Seattle, Bella, whose high school graduation is fast approaching, is forced to choose between her love for vampire Edward and her friendship with werewolf Jacob.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "23 wins & 35 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "5.1",
+  "imdbVotes": "262,028",
+  "imdbID": "tt1325004",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$300,531,751",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Little Women",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "25 Dec 2019",
+  "Runtime": "135 min",
+  "Genre": "Drama, Romance",
+  "Director": "Greta Gerwig",
+  "Writer": "Greta Gerwig, Louisa May Alcott",
+  "Actors": "Saoirse Ronan, Emma Watson, Florence Pugh",
+  "Plot": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms.",
+  "Language": "English, French",
+  "Country": "United States",
+  "Awards": "Won 1 Oscar. 78 wins & 231 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BY2QzYTQyYzItMzAwYi00YjZlLThjNTUtNzMyMDdkYzJiNWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "Metascore": "91",
+  "imdbRating": "7.8",
+  "imdbVotes": "248,847",
+  "imdbID": "tt3281548",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$108,101,214",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

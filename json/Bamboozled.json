@@ -1,0 +1,40 @@
+{
+  "Title": "Bamboozled",
+  "Year": "2000",
+  "Rated": "R",
+  "Released": "20 Oct 2000",
+  "Runtime": "135 min",
+  "Genre": "Comedy, Drama, Music",
+  "Director": "Spike Lee",
+  "Writer": "Spike Lee",
+  "Actors": "Damon Wayans, Savion Glover, Jada Pinkett Smith",
+  "Plot": "A frustrated African-American TV writer proposes a blackface minstrel show in protest, but to his chagrin, it becomes a hit.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 10 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2ODIzMjUyMV5BMl5BanBnXkFtZTYwNzEyMzY3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "53%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "Metascore": "56",
+  "imdbRating": "6.7",
+  "imdbVotes": "12,438",
+  "imdbID": "tt0215545",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$2,274,979",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

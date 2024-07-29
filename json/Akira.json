@@ -1,0 +1,40 @@
+{
+  "Title": "Akira",
+  "Year": "1988",
+  "Rated": "R",
+  "Released": "16 Jul 1988",
+  "Runtime": "124 min",
+  "Genre": "Animation, Action, Drama",
+  "Director": "Katsuhiro Ôtomo",
+  "Writer": "Katsuhiro Ôtomo, Izô Hashimoto",
+  "Actors": "Mitsuo Iwata, Nozomu Sasaki, Mami Koyama",
+  "Plot": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by a teenager, his gang of biker friends and a group of psychics.",
+  "Language": "Japanese",
+  "Country": "Japan",
+  "Awards": "1 win",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjFmNWYzZjMtYWIyZi00NDVmLWIxY2EtN2RiMjZiMDk4MzcyXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "8.0",
+  "imdbVotes": "207,384",
+  "imdbID": "tt0094625",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$553,171",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

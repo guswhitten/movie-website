@@ -1,0 +1,40 @@
+{
+  "Title": "Elephant",
+  "Year": "2003",
+  "Rated": "R",
+  "Released": "14 Nov 2003",
+  "Runtime": "81 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Gus Van Sant",
+  "Writer": "Gus Van Sant",
+  "Actors": "Elias McConnell, Alex Frost, Eric Deulen",
+  "Plot": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
+  "Language": "English, German",
+  "Country": "United States",
+  "Awards": "8 wins & 13 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZWRhNDZkMzQtZDQ3Ny00NjdjLWJmZjAtMWQxNDQyZTYzZjU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "74%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "70/100"
+    }
+  ],
+  "Metascore": "70",
+  "imdbRating": "7.1",
+  "imdbVotes": "97,757",
+  "imdbID": "tt0363589",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,266,955",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

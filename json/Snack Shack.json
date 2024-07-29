@@ -1,0 +1,36 @@
+{
+  "Title": "Snack Shack",
+  "Year": "2024",
+  "Rated": "R",
+  "Released": "15 Mar 2024",
+  "Runtime": "112 min",
+  "Genre": "Comedy",
+  "Director": "Adam Rehmeier",
+  "Writer": "Adam Rehmeier",
+  "Actors": "Conor Sherry, Gabriel LaBelle, Mika Abdalla",
+  "Plot": "Nebraska City, 1991, two best friends get the chance to run the swimming pool snack shack, that later comes to be the perfect scenario for transgression, fun, personal discovery and romance.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYWVmNGYwMjEtZTAxNy00NTk5LWI4YjItYjVmNTNlZDg5ZGZhXkEyXkFqcGdeQXVyMjI0NjI0Nw@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbVotes": "4,616",
+  "imdbID": "tt22004344",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$455,708",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

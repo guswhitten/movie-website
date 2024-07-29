@@ -1,0 +1,40 @@
+{
+  "Title": "1984",
+  "Year": "1984",
+  "Rated": "R",
+  "Released": "22 Mar 1985",
+  "Runtime": "113 min",
+  "Genre": "Drama, Sci-Fi",
+  "Director": "Michael Radford",
+  "Writer": "Michael Radford, George Orwell",
+  "Actors": "John Hurt, Richard Burton, Suzanna Hamilton",
+  "Plot": "In a totalitarian future society, a man, whose daily work is re-writing history, tries to rebel by falling in love.",
+  "Language": "English",
+  "Country": "United Kingdom, West Germany, Netherlands",
+  "Awards": "Nominated for 1 BAFTA Award6 wins & 3 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWFkNzIzNDUtNWI1Mi00ODA2LTgyMTMtYTZiYWMxMDFlNmNhL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "67/100"
+    }
+  ],
+  "Metascore": "67",
+  "imdbRating": "7.1",
+  "imdbVotes": "79,657",
+  "imdbID": "tt0087803",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$8,430,492",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

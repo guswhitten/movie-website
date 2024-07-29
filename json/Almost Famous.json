@@ -1,0 +1,40 @@
+{
+  "Title": "Almost Famous",
+  "Year": "2000",
+  "Rated": "R",
+  "Released": "22 Sep 2000",
+  "Runtime": "122 min",
+  "Genre": "Adventure, Comedy, Drama",
+  "Director": "Cameron Crowe",
+  "Writer": "Cameron Crowe",
+  "Actors": "Billy Crudup, Patrick Fugit, Kate Hudson",
+  "Plot": "A high-school boy in the early 1970s is given the chance to write a story for Rolling Stone magazine about an up-and-coming rock band as he accompanies them on their concert tour.",
+  "Language": "English, French",
+  "Country": "United States",
+  "Awards": "Won 1 Oscar. 54 wins & 103 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYmZjZDUxYjgtZDY4Yi00MTY1LWE3ZTctOTIyNDA3ZGY5ZDZjXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "90/100"
+    }
+  ],
+  "Metascore": "90",
+  "imdbRating": "7.9",
+  "imdbVotes": "295,688",
+  "imdbID": "tt0181875",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$32,534,850",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

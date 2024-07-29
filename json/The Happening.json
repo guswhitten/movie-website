@@ -1,0 +1,40 @@
+{
+  "Title": "The Happening",
+  "Year": "2008",
+  "Rated": "R",
+  "Released": "13 Jun 2008",
+  "Runtime": "91 min",
+  "Genre": "Adventure, Drama, Sci-Fi",
+  "Director": "M. Night Shyamalan",
+  "Writer": "M. Night Shyamalan",
+  "Actors": "Mark Wahlberg, Zooey Deschanel, John Leguizamo",
+  "Plot": "A science teacher, his wife, and a young girl struggle to survive a plague that causes those infected to commit suicide.",
+  "Language": "English, French",
+  "Country": "United States, India",
+  "Awards": "3 wins & 10 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MjcwNjI0MF5BMl5BanBnXkFtZTcwMjM4NjM3MQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "18%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "Metascore": "34",
+  "imdbRating": "5.0",
+  "imdbVotes": "217,224",
+  "imdbID": "tt0949731",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$64,506,874",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

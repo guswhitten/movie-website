@@ -1,0 +1,40 @@
+{
+  "Title": "Gran Torino",
+  "Year": "2008",
+  "Rated": "R",
+  "Released": "09 Jan 2009",
+  "Runtime": "116 min",
+  "Genre": "Drama",
+  "Director": "Clint Eastwood",
+  "Writer": "Nick Schenk, Dave Johannson",
+  "Actors": "Clint Eastwood, Bee Vang, Christopher Carley",
+  "Plot": "After a Hmong teenager tries to steal his prized 1972 Gran Torino, a disgruntled, prejudiced Korean War veteran seeks to redeem both the boy and himself.",
+  "Language": "English, Hmong",
+  "Country": "Germany, United States",
+  "Awards": "21 wins & 22 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "81%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "8.1",
+  "imdbVotes": "819,741",
+  "imdbID": "tt1205489",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$148,095,302",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

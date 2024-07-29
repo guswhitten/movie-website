@@ -1,0 +1,40 @@
+{
+  "Title": "The Princess Bride",
+  "Year": "1987",
+  "Rated": "PG",
+  "Released": "09 Oct 1987",
+  "Runtime": "98 min",
+  "Genre": "Adventure, Comedy, Family",
+  "Director": "Rob Reiner",
+  "Writer": "William Goldman",
+  "Actors": "Cary Elwes, Mandy Patinkin, Robin Wright",
+  "Plot": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 7 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzdiOTVjZmQtNjAyNy00YjA2LTk5ZTAtNmJkMGQ5N2RmNjUxXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "96%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "Metascore": "77",
+  "imdbRating": "8.0",
+  "imdbVotes": "453,037",
+  "imdbID": "tt0093779",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$30,857,814",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

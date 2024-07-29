@@ -1,0 +1,40 @@
+{
+  "Title": "The Nest",
+  "Year": "2020",
+  "Rated": "R",
+  "Released": "18 Sep 2020",
+  "Runtime": "107 min",
+  "Genre": "Drama, Romance, Thriller",
+  "Director": "Sean Durkin",
+  "Writer": "Sean Durkin",
+  "Actors": "Jude Law, Carrie Coon, Oona Roche",
+  "Plot": "Life for an entrepreneur and his American family begins to take a twisted turn after moving into an English country manor.",
+  "Language": "English",
+  "Country": "United Kingdom, Canada",
+  "Awards": "5 wins & 29 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGRjYzI5ZGUtZGJjYy00ZTYyLWJlNzItNWM0MDc0ZDVmM2IwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "90%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "Metascore": "80",
+  "imdbRating": "6.3",
+  "imdbVotes": "18,848",
+  "imdbID": "tt8338762",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$137,886",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

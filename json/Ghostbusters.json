@@ -1,0 +1,40 @@
+{
+  "Title": "Ghostbusters",
+  "Year": "1984",
+  "Rated": "PG",
+  "Released": "08 Jun 1984",
+  "Runtime": "105 min",
+  "Genre": "Action, Comedy, Fantasy",
+  "Director": "Ivan Reitman",
+  "Writer": "Dan Aykroyd, Harold Ramis, Rick Moranis",
+  "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
+  "Plot": "Three parapsychologists forced out of their university funding set up shop as a unique ghost removal service in New York City, attracting frightened yet skeptical customers.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 2 Oscars. 8 wins & 9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZmYxNzdiMGItMDNlMS00ZWYyLWIwOTItZDcyMTNiNTZiMzJhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "71/100"
+    }
+  ],
+  "Metascore": "71",
+  "imdbRating": "7.8",
+  "imdbVotes": "455,169",
+  "imdbID": "tt0087332",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$243,578,797",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

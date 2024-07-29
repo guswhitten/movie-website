@@ -1,0 +1,40 @@
+{
+  "Title": "Bohemian Rhapsody",
+  "Year": "2018",
+  "Rated": "PG-13",
+  "Released": "02 Nov 2018",
+  "Runtime": "134 min",
+  "Genre": "Biography, Drama, Music",
+  "Director": "Bryan Singer",
+  "Writer": "Anthony McCarten, Peter Morgan",
+  "Actors": "Rami Malek, Lucy Boynton, Gwilym Lee",
+  "Plot": "The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).",
+  "Language": "English, British Sign ",
+  "Country": "United Kingdom, United States",
+  "Awards": "Won 4 Oscars. 49 wins & 81 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "60%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "Metascore": "49",
+  "imdbRating": "7.9",
+  "imdbVotes": "599,764",
+  "imdbID": "tt1727824",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$216,668,042",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

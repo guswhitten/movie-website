@@ -1,0 +1,40 @@
+{
+  "Title": "Jackass: The Movie",
+  "Year": "2002",
+  "Rated": "R",
+  "Released": "25 Oct 2002",
+  "Runtime": "85 min",
+  "Genre": "Documentary, Action, Comedy",
+  "Director": "Jeff Tremaine",
+  "Writer": "Jeff Tremaine, Spike Jonze, Johnny Knoxville",
+  "Actors": "Johnny Knoxville, Bam Margera, Chris Pontius",
+  "Plot": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 7 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTgwMmU0YzktOGNhNi00MDcyLTg1OGEtZGQwM2RlMTAyYzhlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "49%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "42/100"
+    }
+  ],
+  "Metascore": "42",
+  "imdbRating": "6.6",
+  "imdbVotes": "102,819",
+  "imdbID": "tt0322802",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$64,255,312",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

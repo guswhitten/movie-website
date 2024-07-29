@@ -1,0 +1,40 @@
+{
+  "Title": "First Blood",
+  "Year": "1982",
+  "Rated": "R",
+  "Released": "22 Oct 1982",
+  "Runtime": "93 min",
+  "Genre": "Action, Adventure, Thriller",
+  "Director": "Ted Kotcheff",
+  "Writer": "David Morrell, Michael Kozoll, William Sackheim",
+  "Actors": "Sylvester Stallone, Brian Dennehy, Richard Crenna",
+  "Plot": "A veteran Green Beret is forced by a cruel Sheriff and his deputies to flee into the mountains and wage an escalating one-man war against his pursuers.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 4 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODBmOWU2YWMtZGUzZi00YzRhLWJjNDAtYTUwNWVkNDcyZmU5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "86%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "Metascore": "61",
+  "imdbRating": "7.7",
+  "imdbVotes": "277,895",
+  "imdbID": "tt0083944",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$47,212,904",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

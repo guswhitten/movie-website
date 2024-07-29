@@ -1,0 +1,40 @@
+{
+  "Title": "101 Dalmatians",
+  "Year": "1996",
+  "Rated": "G",
+  "Released": "27 Nov 1996",
+  "Runtime": "103 min",
+  "Genre": "Adventure, Comedy, Crime",
+  "Director": "Stephen Herek",
+  "Writer": "Dodie Smith, John Hughes",
+  "Actors": "Glenn Close, Jeff Daniels, Joely Richardson",
+  "Plot": "An evil high-fashion designer plots to steal dalmatian puppies in order to make an extravagant fur coat but creates an extravagant mess instead.",
+  "Language": "English, Spanish",
+  "Country": "United States, United Kingdom",
+  "Awards": "Nominated for 1 BAFTA Award3 wins & 10 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGI2NTQ2N2EtNDExMS00OWM2LTkzZWItZGUzY2M2MDFjODk0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "39%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "49/100"
+    }
+  ],
+  "Metascore": "49",
+  "imdbRating": "5.7",
+  "imdbVotes": "118,176",
+  "imdbID": "tt0115433",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$136,189,294",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

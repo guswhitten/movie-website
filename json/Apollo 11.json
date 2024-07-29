@@ -1,0 +1,40 @@
+{
+  "Title": "Apollo 11",
+  "Year": "2019",
+  "Rated": "G",
+  "Released": "01 Mar 2019",
+  "Runtime": "93 min",
+  "Genre": "Documentary, History",
+  "Director": "Todd Douglas Miller",
+  "Writer": "N/A",
+  "Actors": "Neil Armstrong, Mike Collins, Buzz Aldrin",
+  "Plot": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilots Buzz Aldrin and Mike Collins.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Won 3 Primetime Emmys. 59 wins & 45 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMzEzNjI4M15BMl5BanBnXkFtZTgwODgxOTgyNzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "88/100"
+    }
+  ],
+  "Metascore": "88",
+  "imdbRating": "8.1",
+  "imdbVotes": "27,315",
+  "imdbID": "tt8760684",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$9,039,891",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

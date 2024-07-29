@@ -1,0 +1,40 @@
+{
+  "Title": "Brazil",
+  "Year": "1985",
+  "Rated": "R",
+  "Released": "18 Dec 1985",
+  "Runtime": "132 min",
+  "Genre": "Drama, Sci-Fi, Thriller",
+  "Director": "Terry Gilliam",
+  "Writer": "Terry Gilliam, Tom Stoppard, Charles McKeown",
+  "Actors": "Jonathan Pryce, Kim Greist, Robert De Niro",
+  "Plot": "A bureaucrat in a dystopic society becomes an enemy of the state as he pursues the woman of his dreams.",
+  "Language": "English",
+  "Country": "United Kingdom, United States",
+  "Awards": "Nominated for 2 Oscars. 9 wins & 6 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMDM0YTM3Y2UtNzY5MC00OTc4LThhZTYtMmM0ZGZjMmU1ZjdmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "98%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "84/100"
+    }
+  ],
+  "Metascore": "84",
+  "imdbRating": "7.8",
+  "imdbVotes": "212,293",
+  "imdbID": "tt0088846",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$9,929,135",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

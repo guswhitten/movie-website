@@ -1,0 +1,40 @@
+{
+  "Title": "Another Round",
+  "Year": "2020",
+  "Rated": "Not Rated",
+  "Released": "18 Dec 2020",
+  "Runtime": "117 min",
+  "Genre": "Drama",
+  "Director": "Thomas Vinterberg",
+  "Writer": "Thomas Vinterberg, Tobias Lindholm",
+  "Actors": "Mads Mikkelsen, Thomas Bo Larsen, Magnus Millang",
+  "Plot": "Four high-school teachers consume alcohol on a daily basis to see how it affects their social and professional lives.",
+  "Language": "Danish, Swedish, French, English, Russian",
+  "Country": "Denmark, Sweden, Netherlands",
+  "Awards": "Won 1 Oscar. 60 wins & 70 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOTNjM2Y2ZjgtMDc5NS00MDQ1LTgyNGYtYzYwMTAyNWQwYTMyXkEyXkFqcGdeQXVyMjE4NzUxNDA@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "Metascore": "79",
+  "imdbRating": "7.7",
+  "imdbVotes": "197,143",
+  "imdbID": "tt10288566",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

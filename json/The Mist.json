@@ -1,0 +1,40 @@
+{
+  "Title": "The Mist",
+  "Year": "2007",
+  "Rated": "R",
+  "Released": "21 Nov 2007",
+  "Runtime": "126 min",
+  "Genre": "Horror, Sci-Fi, Thriller",
+  "Director": "Frank Darabont",
+  "Writer": "Frank Darabont, Stephen King",
+  "Actors": "Thomas Jane, Marcia Gay Harden, Laurie Holden",
+  "Plot": "A freak storm unleashes a species of bloodthirsty creatures on a small town, where a small band of citizens hole up in a supermarket and fight for their lives.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "6 wins & 13 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjQyNDY1Ml5BMl5BanBnXkFtZTcwMTk1MDU1MQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "73%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "58/100"
+    }
+  ],
+  "Metascore": "58",
+  "imdbRating": "7.1",
+  "imdbVotes": "344,136",
+  "imdbID": "tt0884328",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$25,594,957",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

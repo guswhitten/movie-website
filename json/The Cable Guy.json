@@ -1,0 +1,40 @@
+{
+  "Title": "The Cable Guy",
+  "Year": "1996",
+  "Rated": "PG-13",
+  "Released": "14 Jun 1996",
+  "Runtime": "96 min",
+  "Genre": "Comedy, Drama, Thriller",
+  "Director": "Ben Stiller",
+  "Writer": "Lou Holtz Jr.",
+  "Actors": "Jim Carrey, Matthew Broderick, Leslie Mann",
+  "Plot": "A designer makes a grievious mistake when he rejects the friendship of a borderline cable guy.",
+  "Language": "English, French",
+  "Country": "United States",
+  "Awards": "3 wins & 2 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZTM2YmM4NTAtOTQ0NC00YmZkLTkxYTQtMWQyZWJlZTg0ZjUyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "Metascore": "56",
+  "imdbRating": "6.1",
+  "imdbVotes": "178,957",
+  "imdbID": "tt0115798",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$60,240,295",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

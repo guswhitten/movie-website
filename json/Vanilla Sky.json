@@ -1,0 +1,40 @@
+{
+  "Title": "Vanilla Sky",
+  "Year": "2001",
+  "Rated": "R",
+  "Released": "14 Dec 2001",
+  "Runtime": "136 min",
+  "Genre": "Fantasy, Mystery, Romance",
+  "Director": "Cameron Crowe",
+  "Writer": "Alejandro Amenábar, Mateo Gil, Cameron Crowe",
+  "Actors": "Tom Cruise, Penélope Cruz, Cameron Diaz",
+  "Plot": "A self-indulgent and vain publishing magnate finds his privileged life upended after a vehicular accident with a resentful lover.",
+  "Language": "English, Spanish",
+  "Country": "United States, Spain",
+  "Awards": "Nominated for 1 Oscar. 5 wins & 34 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzFlMTJjYzUtMWFjYy00NjkyLTg1Y2EtYmZkMjdlOGQ1ZGYwL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "43%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "45/100"
+    }
+  ],
+  "Metascore": "45",
+  "imdbRating": "6.9",
+  "imdbVotes": "286,863",
+  "imdbID": "tt0259711",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$100,618,344",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

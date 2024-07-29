@@ -1,0 +1,40 @@
+{
+  "Title": "The Host",
+  "Year": "2006",
+  "Rated": "R",
+  "Released": "30 Mar 2007",
+  "Runtime": "120 min",
+  "Genre": "Drama, Horror, Sci-Fi",
+  "Director": "Bong Joon Ho",
+  "Writer": "Bong Joon Ho, Won-jun Ha, Chul-hyun Baek",
+  "Actors": "Song Kang-ho, Byun Hee-Bong, Park Hae-il",
+  "Plot": "A monster emerges from Seoul's Han River and begins attacking people. One victim's loving family does what it can to rescue her from its clutches.",
+  "Language": "Korean, English",
+  "Country": "South Korea, Japan",
+  "Awards": "29 wins & 36 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTE3N2IwNmMtOGE0Ny00NWFlLTliNmUtNjY3ODExYjgxNmUyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.1/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "85/100"
+    }
+  ],
+  "Metascore": "85",
+  "imdbRating": "7.1",
+  "imdbVotes": "133,450",
+  "imdbID": "tt0468492",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$2,201,923",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

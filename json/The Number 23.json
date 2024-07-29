@@ -1,0 +1,36 @@
+{
+  "Title": "The Number 23",
+  "Year": "2007",
+  "Rated": "R",
+  "Released": "23 Feb 2007",
+  "Runtime": "98 min",
+  "Genre": "Crime, Mystery, Thriller",
+  "Director": "Joel Schumacher",
+  "Writer": "Fernley Phillips",
+  "Actors": "Jim Carrey, Virginia Madsen, Logan Lerman",
+  "Plot": "Walter Sparrow becomes obsessed with a novel that he believes was written about him, as more and more similarities between himself and his literary alter ego seem to arise.",
+  "Language": "English, Chinese",
+  "Country": "United States",
+  "Awards": "5 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDg0YzAxZGYtNTdkYy00ZmUyLWIwNDQtOTA0NGNlZGZiMjkwXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "7%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.4",
+  "imdbVotes": "213,521",
+  "imdbID": "tt0481369",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$35,193,167",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

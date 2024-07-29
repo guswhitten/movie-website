@@ -1,0 +1,40 @@
+{
+  "Title": "The Personal History of David Copperfield",
+  "Year": "2019",
+  "Rated": "PG",
+  "Released": "28 Aug 2020",
+  "Runtime": "119 min",
+  "Genre": "Comedy, Drama",
+  "Director": "Armando Iannucci",
+  "Writer": "Armando Iannucci, Simon Blackwell, Charles Dickens",
+  "Actors": "Dev Patel, Hugh Laurie, Tilda Swinton",
+  "Plot": "A modern take on Charles Dickens's classic tale of a young orphan who is able to triumph over many obstacles.",
+  "Language": "English, French",
+  "Country": "United Kingdom, United States",
+  "Awards": "Nominated for 1 BAFTA Award19 wins & 33 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BN2NhMWM0OGMtOWIwMS00OGM1LWJlN2YtMzc4N2UyOTg5MDlkXkEyXkFqcGdeQXVyNjkwMzAwMjQ@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "77/100"
+    }
+  ],
+  "Metascore": "77",
+  "imdbRating": "6.4",
+  "imdbVotes": "22,573",
+  "imdbID": "tt6439020",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,876,298",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

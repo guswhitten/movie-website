@@ -1,0 +1,40 @@
+{
+  "Title": "The Assistant",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "31 Jan 2020",
+  "Runtime": "87 min",
+  "Genre": "Drama",
+  "Director": "Kitty Green",
+  "Writer": "Kitty Green",
+  "Actors": "Julia Garner, Owen Holland, Jon Orsini",
+  "Plot": "A searing look at a day in the life of an assistant to a powerful executive. As Jane follows her daily routine, she grows increasingly aware of the insidious abuse that threatens every aspect of her position.",
+  "Language": "English, Mandarin, Spanish",
+  "Country": "United States",
+  "Awards": "5 wins & 24 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjBkMDZkNjctNmZhNi00Mzc5LTk0OTctNzFlMDExYzM3ZDNhXkEyXkFqcGdeQXVyNDY2MjcyOTQ@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "79/100"
+    }
+  ],
+  "Metascore": "79",
+  "imdbRating": "6.4",
+  "imdbVotes": "26,486",
+  "imdbID": "tt9000224",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,100,313",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

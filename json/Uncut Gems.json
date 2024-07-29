@@ -1,0 +1,40 @@
+{
+  "Title": "Uncut Gems",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "25 Dec 2019",
+  "Runtime": "135 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Benny Safdie, Josh Safdie",
+  "Writer": "Ronald Bronstein, Josh Safdie, Benny Safdie",
+  "Actors": "Adam Sandler, Julia Fox, Idina Menzel",
+  "Plot": "With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.",
+  "Language": "English, Hebrew",
+  "Country": "United States",
+  "Awards": "28 wins & 94 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDhkMjUyYjItYWVkYi00YTM5LWE4MGEtY2FlMjA3OThlYmZhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "Metascore": "91",
+  "imdbRating": "7.4",
+  "imdbVotes": "320,994",
+  "imdbID": "tt5727208",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$50,023,780",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Ghostbusters II",
+  "Year": "1989",
+  "Rated": "PG",
+  "Released": "16 Jun 1989",
+  "Runtime": "108 min",
+  "Genre": "Action, Comedy, Fantasy",
+  "Director": "Ivan Reitman",
+  "Writer": "Dan Aykroyd, Harold Ramis",
+  "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver",
+  "Plot": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 1 nomination",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNWI5NTg3MTMtZWY0Ny00YWJmLThkZDUtMTBkZTVhMDAyMmVlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "55%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "Metascore": "56",
+  "imdbRating": "6.6",
+  "imdbVotes": "227,088",
+  "imdbID": "tt0097428",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$112,494,738",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

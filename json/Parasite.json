@@ -1,0 +1,40 @@
+{
+  "Title": "Parasite",
+  "Year": "2019",
+  "Rated": "R",
+  "Released": "08 Nov 2019",
+  "Runtime": "132 min",
+  "Genre": "Drama, Thriller",
+  "Director": "Bong Joon Ho",
+  "Writer": "Bong Joon Ho, Han Jin-won",
+  "Actors": "Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong",
+  "Plot": "Greed and class discrimination threaten the newly-formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+  "Language": "Korean, English",
+  "Country": "South Korea",
+  "Awards": "Won 4 Oscars. 309 wins & 265 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "99%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "96/100"
+    }
+  ],
+  "Metascore": "96",
+  "imdbRating": "8.5",
+  "imdbVotes": "975,195",
+  "imdbID": "tt6751668",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$53,369,749",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

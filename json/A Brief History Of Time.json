@@ -1,0 +1,40 @@
+{
+  "Title": "A Brief History of Time",
+  "Year": "1991",
+  "Rated": "G",
+  "Released": "27 Dec 1991",
+  "Runtime": "80 min",
+  "Genre": "Documentary, Biography",
+  "Director": "Errol Morris",
+  "Writer": "Stephen Hawking",
+  "Actors": "Stephen Hawking, Isobel Hawking, Janet Humphrey",
+  "Plot": "A film about the life and work of the cosmologist, Stephen Hawking, who despite his near total paralysis, was one of the great minds of all time.",
+  "Language": "English",
+  "Country": "United Kingdom, Japan, United States",
+  "Awards": "4 wins & 3 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzQxMmM1M2YtYzY4NC00NWNhLTg3NjQtMWQ2ZmNmZTM4MzQ2XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "7.3",
+  "imdbVotes": "5,926",
+  "imdbID": "tt0103882",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$2,279,692",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

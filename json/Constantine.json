@@ -1,0 +1,40 @@
+{
+  "Title": "Constantine",
+  "Year": "2005",
+  "Rated": "R",
+  "Released": "18 Feb 2005",
+  "Runtime": "121 min",
+  "Genre": "Action, Fantasy, Horror",
+  "Director": "Francis Lawrence",
+  "Writer": "Jamie Delano, Garth Ennis, Kevin Brodbin",
+  "Actors": "Keanu Reeves, Rachel Weisz, Djimon Hounsou",
+  "Plot": "Supernatural exorcist and demonologist John Constantine helps a policewoman prove her sister's death was not a suicide, but something more.",
+  "Language": "English, Filipino, Tagalog",
+  "Country": "United States, Germany, Canada, United Kingdom",
+  "Awards": "2 wins & 11 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODZiMzAxNTctZjdiZC00OGY5LTg2NDAtNWJhNmQwZTcyMWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "50/100"
+    }
+  ],
+  "Metascore": "50",
+  "imdbRating": "7.0",
+  "imdbVotes": "376,534",
+  "imdbID": "tt0360486",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$75,976,178",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

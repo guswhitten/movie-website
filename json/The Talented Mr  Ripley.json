@@ -1,0 +1,40 @@
+{
+  "Title": "The Talented Mr. Ripley",
+  "Year": "1999",
+  "Rated": "R",
+  "Released": "25 Dec 1999",
+  "Runtime": "139 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Anthony Minghella",
+  "Writer": "Patricia Highsmith, Anthony Minghella",
+  "Actors": "Matt Damon, Gwyneth Paltrow, Jude Law",
+  "Plot": "In late 1950s New York, a young underachiever named Tom Ripley is sent to Italy to retrieve Dickie Greenleaf, a rich and spoiled millionaire playboy. But when the errand fails, Ripley takes extreme measures.",
+  "Language": "English, Italian",
+  "Country": "United States",
+  "Awards": "Nominated for 5 Oscars. 10 wins & 81 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BODA3NDhiZjYtYTk2NS00ZWYwLTljYTQtMjU0NzcyMGEzNTU2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "76/100"
+    }
+  ],
+  "Metascore": "76",
+  "imdbRating": "7.4",
+  "imdbVotes": "249,390",
+  "imdbID": "tt0134119",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$81,298,265",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

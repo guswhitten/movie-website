@@ -1,0 +1,40 @@
+{
+  "Title": "Pan's Labyrinth",
+  "Year": "2006",
+  "Rated": "R",
+  "Released": "19 Jan 2007",
+  "Runtime": "118 min",
+  "Genre": "Drama, Fantasy, War",
+  "Director": "Guillermo del Toro",
+  "Writer": "Guillermo del Toro",
+  "Actors": "Ivana Baquero, Ariadna Gil, Sergi López",
+  "Plot": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+  "Language": "Spanish",
+  "Country": "Mexico, Spain",
+  "Awards": "Won 3 Oscars. 109 wins & 115 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "98/100"
+    }
+  ],
+  "Metascore": "98",
+  "imdbRating": "8.2",
+  "imdbVotes": "705,755",
+  "imdbID": "tt0457430",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$37,646,380",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

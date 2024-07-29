@@ -1,0 +1,36 @@
+{
+  "Title": "Friday",
+  "Year": "1995",
+  "Rated": "R",
+  "Released": "26 Apr 1995",
+  "Runtime": "91 min",
+  "Genre": "Comedy, Drama",
+  "Director": "F. Gary Gray",
+  "Writer": "Ice Cube, DJ Pooh",
+  "Actors": "Ice Cube, Chris Tucker, Nia Long",
+  "Plot": "It's Friday, and Craig and Smokey must come up with $200 they owe a local bully or there won't be a Saturday.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 5 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYmEwNjNlZTUtNzkwMS00ZTlhLTkyY2MtMjM2MzlmODQyZGVhXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "54/100"
+    }
+  ],
+  "Metascore": "54",
+  "imdbRating": "7.2",
+  "imdbVotes": "125,440",
+  "imdbID": "tt0113118",
+  "Type": "movie",
+  "DVD": "10 Sep 2002",
+  "BoxOffice": "$27,467,564",
+  "Production": "Zebra",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Frailty",
+  "Year": "2001",
+  "Rated": "R",
+  "Released": "12 Apr 2002",
+  "Runtime": "100 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Bill Paxton",
+  "Writer": "Brent Hanley",
+  "Actors": "Bill Paxton, Matthew McConaughey, Powers Boothe",
+  "Plot": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to destroy people who were in fact \"demons.\"",
+  "Language": "English",
+  "Country": "United States, Germany",
+  "Awards": "5 wins & 16 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDUxOWIxMjgtNTY2Ni00MWNhLTk4YWMtMjkxZjk4MzBiMjZkXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "64/100"
+    }
+  ],
+  "Metascore": "64",
+  "imdbRating": "7.2",
+  "imdbVotes": "92,255",
+  "imdbID": "tt0264616",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$13,110,448",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

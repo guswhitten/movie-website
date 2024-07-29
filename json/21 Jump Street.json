@@ -1,0 +1,40 @@
+{
+  "Title": "21 Jump Street",
+  "Year": "2012",
+  "Rated": "R",
+  "Released": "16 Mar 2012",
+  "Runtime": "109 min",
+  "Genre": "Action, Comedy, Crime",
+  "Director": "Phil Lord, Christopher Miller",
+  "Writer": "Michael Bacall, Jonah Hill, Patrick Hasburgh",
+  "Actors": "Jonah Hill, Channing Tatum, Ice Cube",
+  "Plot": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "11 wins & 21 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNTZjNzRjMTMtZDMzNy00Y2ZjLTg0OTAtZjVhNzYyZmJjOTljXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "Metascore": "69",
+  "imdbRating": "7.2",
+  "imdbVotes": "603,135",
+  "imdbID": "tt1232829",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$138,447,667",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

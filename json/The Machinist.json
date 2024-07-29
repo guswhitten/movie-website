@@ -1,0 +1,40 @@
+{
+  "Title": "The Machinist",
+  "Year": "2004",
+  "Rated": "R",
+  "Released": "03 Dec 2004",
+  "Runtime": "101 min",
+  "Genre": "Drama, Thriller",
+  "Director": "Brad Anderson",
+  "Writer": "Scott Kosar",
+  "Actors": "Christian Bale, Jennifer Jason Leigh, Aitana Sánchez-Gijón",
+  "Plot": "An industrial worker who hasn't slept in a year begins to doubt his own sanity.",
+  "Language": "English, Spanish",
+  "Country": "Spain",
+  "Awards": "7 wins & 15 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjk1NzBlY2YtNjJmNi00YTVmLWI2OTgtNDUxNDE5NjUzZmE0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "77%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "61/100"
+    }
+  ],
+  "Metascore": "61",
+  "imdbRating": "7.6",
+  "imdbVotes": "418,128",
+  "imdbID": "tt0361862",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$1,082,715",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

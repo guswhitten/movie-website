@@ -1,0 +1,40 @@
+{
+  "Title": "Kill Bill: Vol. 1",
+  "Year": "2003",
+  "Rated": "R",
+  "Released": "10 Oct 2003",
+  "Runtime": "111 min",
+  "Genre": "Action, Crime, Thriller",
+  "Director": "Quentin Tarantino",
+  "Writer": "Quentin Tarantino, Uma Thurman",
+  "Actors": "Uma Thurman, David Carradine, Daryl Hannah",
+  "Plot": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+  "Language": "English, Japanese, French",
+  "Country": "United States, China",
+  "Awards": "Nominated for 5 BAFTA 30 wins & 103 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "69/100"
+    }
+  ],
+  "Metascore": "69",
+  "imdbRating": "8.2",
+  "imdbVotes": "1,204,241",
+  "imdbID": "tt0266697",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$70,099,045",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

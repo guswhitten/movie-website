@@ -1,0 +1,36 @@
+{
+  "Title": "12th Fail",
+  "Year": "2023",
+  "Rated": "N/A",
+  "Released": "27 Oct 2023",
+  "Runtime": "147 min",
+  "Genre": "Biography, Drama",
+  "Director": "Vidhu Vinod Chopra",
+  "Writer": "Vidhu Vinod Chopra, Jaskunwar Kohli, Anurag Pathak",
+  "Actors": "Vikrant Massey, Medha Shankr, Anant Joshi",
+  "Plot": "The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi.",
+  "Language": "Hindi, Malayalam, Tamil, Telugu, Kannada",
+  "Country": "India",
+  "Awards": "23 wins & 26 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDI4OTM1ZjMtOWQxMC00OTY5LTg3NjQtMjlhMWVjODFlYTY4XkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "8.9",
+  "imdbVotes": "118,788",
+  "imdbID": "tt23849204",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

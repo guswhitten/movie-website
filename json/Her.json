@@ -1,0 +1,40 @@
+{
+  "Title": "Her",
+  "Year": "2013",
+  "Rated": "R",
+  "Released": "10 Jan 2014",
+  "Runtime": "126 min",
+  "Genre": "Drama, Romance, Sci-Fi",
+  "Director": "Spike Jonze",
+  "Writer": "Spike Jonze",
+  "Actors": "Joaquin Phoenix, Amy Adams, Scarlett Johansson",
+  "Plot": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Won 1 Oscar. 83 wins & 186 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "95%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "91/100"
+    }
+  ],
+  "Metascore": "91",
+  "imdbRating": "8.0",
+  "imdbVotes": "677,234",
+  "imdbID": "tt1798709",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$25,568,251",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Groundhog Day",
+  "Year": "1993",
+  "Rated": "PG",
+  "Released": "12 Feb 1993",
+  "Runtime": "101 min",
+  "Genre": "Comedy, Drama, Fantasy",
+  "Director": "Harold Ramis",
+  "Writer": "Danny Rubin, Harold Ramis",
+  "Actors": "Bill Murray, Andie MacDowell, Chris Elliott",
+  "Plot": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day.",
+  "Language": "English, French, Italian",
+  "Country": "United States",
+  "Awards": "Won 1 BAFTA Award7 wins & 17 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "8.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "94%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "8.0",
+  "imdbVotes": "690,107",
+  "imdbID": "tt0107048",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$71,107,962",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

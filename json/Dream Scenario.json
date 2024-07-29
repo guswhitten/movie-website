@@ -1,0 +1,36 @@
+{
+  "Title": "Dream Scenario",
+  "Year": "2023",
+  "Rated": "R",
+  "Released": "22 Nov 2023",
+  "Runtime": "102 min",
+  "Genre": "Comedy, Drama, Fantasy",
+  "Director": "Kristoffer Borgli",
+  "Writer": "Kristoffer Borgli",
+  "Actors": "Lily Bird, Nicolas Cage, Julianne Nicholson",
+  "Plot": "An ordinary family man finds his life turned upside down when strangers suddenly start seeing him in their dreams.",
+  "Language": "English, French",
+  "Country": "United States, Canada",
+  "Awards": "2 wins & 16 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZDI4MjI1YmYtYzg1Ny00MWQzLWIwNTgtNmFkMWNhYTYzYjdkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "91%"
+    }
+  ],
+  "Metascore": "N/A",
+  "imdbRating": "6.9",
+  "imdbVotes": "65,879",
+  "imdbID": "tt21942866",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$5,742,193",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

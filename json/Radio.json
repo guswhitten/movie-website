@@ -1,0 +1,40 @@
+{
+  "Title": "Radio",
+  "Year": "2003",
+  "Rated": "PG",
+  "Released": "24 Oct 2003",
+  "Runtime": "109 min",
+  "Genre": "Biography, Drama, Sport",
+  "Director": "Michael Tollin",
+  "Writer": "Mike Rich, Gary Smith",
+  "Actors": "Cuba Gooding Jr., Ed Harris, Debra Winger",
+  "Plot": "The story of a high school coach and the developmentally challenged man who he took under his wing.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 wins & 5 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMGEwZTk3ZWEtYWY4MS00MGEzLWI4ZWQtZjhhZjFiM2ZiNzc0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "35%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "38/100"
+    }
+  ],
+  "Metascore": "38",
+  "imdbRating": "6.9",
+  "imdbVotes": "44,190",
+  "imdbID": "tt0316465",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$52,333,738",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Police Story",
+  "Year": "1985",
+  "Rated": "PG-13",
+  "Released": "14 Dec 1985",
+  "Runtime": "100 min",
+  "Genre": "Action, Comedy, Crime",
+  "Director": "Jackie Chan, Chi-Hwa Chen",
+  "Writer": "Jackie Chan, Edward Tang",
+  "Actors": "Jackie Chan, Maggie Cheung, Brigitte Lin",
+  "Plot": "A virtuous Hong Kong Police Officer must clear his good name when the drug lord he is after frames him for the murder of a dirty cop.",
+  "Language": "Cantonese",
+  "Country": "Hong Kong",
+  "Awards": "2 wins & 5 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMWJhZmI5ZWUtYjgyNy00NTk1LWIzODktYTE3NzQzNzJlOTgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "7.5",
+  "imdbVotes": "42,305",
+  "imdbID": "tt0089374",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$113,164",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Scooby-Doo 2: Monsters Unleashed",
+  "Year": "2004",
+  "Rated": "PG",
+  "Released": "26 Mar 2004",
+  "Runtime": "93 min",
+  "Genre": "Adventure, Comedy, Family",
+  "Director": "Raja Gosnell",
+  "Writer": "William Hanna, Joseph Barbera, James Gunn",
+  "Actors": "Freddie Prinze Jr., Sarah Michelle Gellar, Matthew Lillard",
+  "Plot": "The Mystery Inc. gang must save Coolsville from an attack of their past monsters brought to life by an evil masked figure trying to take down the gang.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "2 wins & 4 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzNzk3NTE1Ml5BMl5BanBnXkFtZTYwODM1MTU3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "23%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "34/100"
+    }
+  ],
+  "Metascore": "34",
+  "imdbRating": "5.2",
+  "imdbVotes": "65,249",
+  "imdbID": "tt0331632",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$84,239,132",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

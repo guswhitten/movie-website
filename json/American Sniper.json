@@ -1,0 +1,40 @@
+{
+  "Title": "American Sniper",
+  "Year": "2014",
+  "Rated": "R",
+  "Released": "16 Jan 2015",
+  "Runtime": "133 min",
+  "Genre": "Action, Biography, Drama",
+  "Director": "Clint Eastwood",
+  "Writer": "Jason Hall, Chris Kyle, Scott McEwen",
+  "Actors": "Bradley Cooper, Sienna Miller, Kyle Gallner",
+  "Plot": "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can't leave b...",
+  "Language": "English, Arabic",
+  "Country": "United States",
+  "Awards": "Won 1 Oscar. 24 wins & 43 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "72/100"
+    }
+  ],
+  "Metascore": "72",
+  "imdbRating": "7.3",
+  "imdbVotes": "532,390",
+  "imdbID": "tt2179136",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$350,159,020",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

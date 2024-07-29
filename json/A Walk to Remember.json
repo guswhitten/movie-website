@@ -1,0 +1,40 @@
+{
+  "Title": "A Walk to Remember",
+  "Year": "2002",
+  "Rated": "PG",
+  "Released": "25 Jan 2002",
+  "Runtime": "101 min",
+  "Genre": "Drama, Romance",
+  "Director": "Adam Shankman",
+  "Writer": "Nicholas Sparks, Karen Janszen",
+  "Actors": "Mandy Moore, Shane West, Peter Coyote",
+  "Plot": "Two North Carolina teens, Landon Carter and Jamie Sullivan, are thrown together after Landon gets into trouble and is sentenced to perform community service.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "4 wins & 2 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMzU3NTYxM2MtNjViMS00YmNlLWEwM2MtYWI2MzgzNTkxODFjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.3/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "29%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "35/100"
+    }
+  ],
+  "Metascore": "35",
+  "imdbRating": "7.3",
+  "imdbVotes": "222,438",
+  "imdbID": "tt0281358",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$41,281,092",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

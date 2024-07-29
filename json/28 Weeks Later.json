@@ -1,0 +1,40 @@
+{
+  "Title": "28 Weeks Later",
+  "Year": "2007",
+  "Rated": "R",
+  "Released": "11 May 2007",
+  "Runtime": "100 min",
+  "Genre": "Horror, Sci-Fi",
+  "Director": "Juan Carlos Fresnadillo",
+  "Writer": "Rowan Joffe, Juan Carlos Fresnadillo, Enrique López Lavigne",
+  "Actors": "Jeremy Renner, Rose Byrne, Robert Carlyle",
+  "Plot": "Six months after the rage virus was inflicted on the population of Great Britain, the US Army helps to secure a small area of London for the survivors to repopulate and start again. But not everything goes according to plan.",
+  "Language": "English",
+  "Country": "United Kingdom, Spain, United States",
+  "Awards": "3 wins & 16 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMjc2MTcxNV5BMl5BanBnXkFtZTcwMzgzOTY0MQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "72%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "78/100"
+    }
+  ],
+  "Metascore": "78",
+  "imdbRating": "6.9",
+  "imdbVotes": "296,270",
+  "imdbID": "tt0463854",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$28,638,916",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

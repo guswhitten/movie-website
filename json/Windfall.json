@@ -1,0 +1,40 @@
+{
+  "Title": "Windfall",
+  "Year": "2022",
+  "Rated": "R",
+  "Released": "18 Mar 2022",
+  "Runtime": "92 min",
+  "Genre": "Crime, Drama, Thriller",
+  "Director": "Charlie McDowell",
+  "Writer": "Charlie McDowell, Jason Segel, Justin Lader",
+  "Actors": "Jason Segel, Lily Collins, Jesse Plemons",
+  "Plot": "A man breaks into a tech billionaire's empty vacation home, but things go sideways when the arrogant mogul and his wife arrive for a last-minute getaway.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "N/A",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjlhNzM4NjItMWRkNi00MWRmLWIzZmEtMmVlNGMwNzU3MmUzXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "5.7/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "58%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "Metascore": "52",
+  "imdbRating": "5.7",
+  "imdbVotes": "26,932",
+  "imdbID": "tt15033192",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+  "Title": "Dazed and Confused",
+  "Year": "1993",
+  "Rated": "R",
+  "Released": "24 Sep 1993",
+  "Runtime": "103 min",
+  "Genre": "Comedy",
+  "Director": "Richard Linklater",
+  "Writer": "Richard Linklater",
+  "Actors": "Jason London, Wiley Wiggins, Matthew McConaughey",
+  "Plot": "The adventures of high school and junior high students on the last day of school in May 1976.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 4 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5MDY5MDQyOV5BMl5BanBnXkFtZTgwMzM3NzMxMDE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "80/100"
+    }
+  ],
+  "Metascore": "80",
+  "imdbRating": "7.6",
+  "imdbVotes": "201,918",
+  "imdbID": "tt0106677",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$8,144,774",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

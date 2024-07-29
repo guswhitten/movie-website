@@ -1,0 +1,40 @@
+{
+  "Title": "Taken 3",
+  "Year": "2014",
+  "Rated": "PG-13",
+  "Released": "09 Jan 2015",
+  "Runtime": "108 min",
+  "Genre": "Action, Crime, Thriller",
+  "Director": "Olivier Megaton",
+  "Writer": "Luc Besson, Robert Mark Kamen",
+  "Actors": "Liam Neeson, Forest Whitaker, Maggie Grace",
+  "Plot": "Accused of a ruthless murder he never committed or witnessed, Bryan Mills goes on the run and brings out his particular set of skills to find the true killer and clear his name.",
+  "Language": "English, Russian",
+  "Country": "France, Spain, United States",
+  "Awards": "3 wins & 3 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNjM5MDU3NTY0M15BMl5BanBnXkFtZTgwOTk2ODU2MzE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "13%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "26/100"
+    }
+  ],
+  "Metascore": "26",
+  "imdbRating": "6.0",
+  "imdbVotes": "205,505",
+  "imdbID": "tt2446042",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$89,256,424",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

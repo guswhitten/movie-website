@@ -1,0 +1,40 @@
+{
+  "Title": "Meet Joe Black",
+  "Year": "1998",
+  "Rated": "PG-13",
+  "Released": "13 Nov 1998",
+  "Runtime": "178 min",
+  "Genre": "Drama, Fantasy, Romance",
+  "Director": "Martin Brest",
+  "Writer": "Ron Osborn, Jeff Reno, Kevin Wade",
+  "Actors": "Brad Pitt, Anthony Hopkins, Claire Forlani",
+  "Plot": "Death, who takes the form of a young man killed in an accident, asks a media mogul to act as his guide to teach him about life on Earth and, in the process, he falls in love with the mogul's daughter.",
+  "Language": "English, Dutch",
+  "Country": "United States",
+  "Awards": "3 wins & 6 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNmVlN2NiZWItY2JlMy00NzRmLTg0Y2ItZmM0ZjVjZjMyM2Q4XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.2/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "46%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "43/100"
+    }
+  ],
+  "Metascore": "43",
+  "imdbRating": "7.2",
+  "imdbVotes": "267,039",
+  "imdbID": "tt0119643",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$44,619,100",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

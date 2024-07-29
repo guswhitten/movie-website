@@ -1,0 +1,40 @@
+{
+  "Title": "Rocky III",
+  "Year": "1982",
+  "Rated": "PG",
+  "Released": "28 May 1982",
+  "Runtime": "99 min",
+  "Genre": "Drama, Sport",
+  "Director": "Sylvester Stallone",
+  "Writer": "Sylvester Stallone",
+  "Actors": "Sylvester Stallone, Talia Shire, Burt Young",
+  "Plot": "Rocky faces the ultimate challenge from a powerful new contender, and must turn to a former rival to help regain his throne as the undisputed fighting champion.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 3 wins & 9 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNDJiMzQ4YTAtZjUzZC00NTI4LWI3N2YtYWU4MTdiNzkwNWVmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.8/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "66%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "57/100"
+    }
+  ],
+  "Metascore": "57",
+  "imdbRating": "6.8",
+  "imdbVotes": "212,337",
+  "imdbID": "tt0084602",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$125,049,125",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

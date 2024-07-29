@@ -1,0 +1,40 @@
+{
+  "Title": "The Devil Wears Prada",
+  "Year": "2006",
+  "Rated": "PG-13",
+  "Released": "30 Jun 2006",
+  "Runtime": "109 min",
+  "Genre": "Comedy, Drama",
+  "Director": "David Frankel",
+  "Writer": "Aline Brosh McKenna, Lauren Weisberger",
+  "Actors": "Anne Hathaway, Meryl Streep, Adrian Grenier",
+  "Plot": "A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.",
+  "Language": "English, French",
+  "Country": "United States, France",
+  "Awards": "Nominated for 2 Oscars. 21 wins & 53 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjQ3ZTIzOTItMGNjNC00MWRmLWJlMGEtMjJmMDM5ZDIzZGM3XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "75%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "6.9",
+  "imdbVotes": "475,923",
+  "imdbID": "tt0458352",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$124,740,460",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

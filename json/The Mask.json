@@ -1,0 +1,40 @@
+{
+  "Title": "The Mask",
+  "Year": "1994",
+  "Rated": "PG-13",
+  "Released": "29 Jul 1994",
+  "Runtime": "101 min",
+  "Genre": "Action, Comedy, Crime",
+  "Director": "Chuck Russell",
+  "Writer": "Michael Fallon, Mark Verheiden, Mike Werb",
+  "Actors": "Jim Carrey, Cameron Diaz, Peter Riegert",
+  "Plot": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.",
+  "Language": "English, Swedish",
+  "Country": "United States",
+  "Awards": "Nominated for 1 Oscar. 6 wins & 22 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BOWExYjI5MzktNTRhNi00Nzg2LThkZmQtYWVkYjRlYWI2MDQ4XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.9/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "80%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "Metascore": "56",
+  "imdbRating": "6.9",
+  "imdbVotes": "426,048",
+  "imdbID": "tt0110475",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$119,938,730",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

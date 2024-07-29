@@ -1,0 +1,40 @@
+{
+  "Title": "Love Actually",
+  "Year": "2003",
+  "Rated": "R",
+  "Released": "14 Nov 2003",
+  "Runtime": "135 min",
+  "Genre": "Comedy, Drama, Romance",
+  "Director": "Richard Curtis",
+  "Writer": "Richard Curtis",
+  "Actors": "Hugh Grant, Martine McCutcheon, Liam Neeson",
+  "Plot": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+  "Language": "English, Portuguese, French",
+  "Country": "United Kingdom, France, United States",
+  "Awards": "Won 1 BAFTA Award10 wins & 29 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BNThkNjgxNGQtOTIxMy00ZTFmLWIwMDItYzE5YzM3ZDMzNDE3XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.6/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "64%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "55/100"
+    }
+  ],
+  "Metascore": "55",
+  "imdbRating": "7.6",
+  "imdbVotes": "533,101",
+  "imdbID": "tt0314331",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$60,221,410",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

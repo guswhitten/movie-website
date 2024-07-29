@@ -1,0 +1,40 @@
+{
+  "Title": "Blow",
+  "Year": "2001",
+  "Rated": "R",
+  "Released": "06 Apr 2001",
+  "Runtime": "124 min",
+  "Genre": "Biography, Crime, Drama",
+  "Director": "Ted Demme",
+  "Writer": "Bruce Porter, David McKenna, Nick Cassavetes",
+  "Actors": "Johnny Depp, Penélope Cruz, Franka Potente",
+  "Plot": "The story of how George Jung, along with the Medellín Cartel headed by Pablo Escobar, established the American cocaine market in the 1970s in the United States.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "3 wins & 9 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYjg5ZDkzZWEtZDQ2ZC00Y2ViLThhMzYtMmIxZDYzYTY2Y2Y2XkEyXkFqcGdeQXVyODAwMTU1MTE@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.5/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "56%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "52/100"
+    }
+  ],
+  "Metascore": "52",
+  "imdbRating": "7.5",
+  "imdbVotes": "276,172",
+  "imdbID": "tt0221027",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$52,990,775",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

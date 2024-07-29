@@ -1,0 +1,40 @@
+{
+  "Title": "Raw",
+  "Year": "2016",
+  "Rated": "R",
+  "Released": "15 Mar 2017",
+  "Runtime": "99 min",
+  "Genre": "Drama, Horror",
+  "Director": "Julia Ducournau",
+  "Writer": "Julia Ducournau",
+  "Actors": "Garance Marillier, Ella Rumpf, Rabah Nait Oufella",
+  "Plot": "A young woman, studying to be a vet, develops a craving for human flesh.",
+  "Language": "French",
+  "Country": "France, Belgium",
+  "Awards": "25 wins & 45 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTU3MDUxMDI0MV5BMl5BanBnXkFtZTgwMzk3OTg3MDI@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "92%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "81/100"
+    }
+  ],
+  "Metascore": "81",
+  "imdbRating": "7.0",
+  "imdbVotes": "89,937",
+  "imdbID": "tt4954522",
+  "Type": "movie",
+  "DVD": "22 May 2017",
+  "BoxOffice": "$514,870",
+  "Production": "Petit Film, Rouge International",
+  "Website": "N/A",
+  "Response": "True"
+}

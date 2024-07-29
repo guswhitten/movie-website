@@ -1,0 +1,40 @@
+{
+  "Title": "Dolores Claiborne",
+  "Year": "1995",
+  "Rated": "R",
+  "Released": "24 Mar 1995",
+  "Runtime": "132 min",
+  "Genre": "Crime, Drama, Mystery",
+  "Director": "Taylor Hackford",
+  "Writer": "Stephen King, Tony Gilroy",
+  "Actors": "Kathy Bates, Jennifer Jason Leigh, Christopher Plummer",
+  "Plot": "A big city reporter travels to a small town where her mother has been arrested for the murder of an elderly woman for whom she worked as a housekeeper.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "1 win & 8 nominations",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BZjgyMDJhOWItOGQ0ZC00ZDZiLWIyZTQtZTgxMjcxOGRhNzc5XkEyXkFqcGc@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "85%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "62/100"
+    }
+  ],
+  "Metascore": "62",
+  "imdbRating": "7.4",
+  "imdbVotes": "48,696",
+  "imdbID": "tt0109642",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$24,361,867",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

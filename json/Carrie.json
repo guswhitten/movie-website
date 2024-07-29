@@ -1,0 +1,40 @@
+{
+  "Title": "Carrie",
+  "Year": "1976",
+  "Rated": "R",
+  "Released": "16 Nov 1976",
+  "Runtime": "98 min",
+  "Genre": "Horror, Mystery",
+  "Director": "Brian De Palma",
+  "Writer": "Stephen King, Lawrence D. Cohen",
+  "Actors": "Sissy Spacek, Piper Laurie, Amy Irving",
+  "Plot": "Carrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.",
+  "Language": "English",
+  "Country": "United States",
+  "Awards": "Nominated for 2 Oscars. 9 wins & 17 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BMTlhNmVkZGUtNjdjOC00YWY3LTljZWQtMTY1YWFhNGYwNDQwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "7.4/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "93%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "86/100"
+    }
+  ],
+  "Metascore": "86",
+  "imdbRating": "7.4",
+  "imdbVotes": "207,887",
+  "imdbID": "tt0074285",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "$33,800,000",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}

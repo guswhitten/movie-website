@@ -1,0 +1,40 @@
+{
+  "Title": "Hocus Pocus 2",
+  "Year": "2022",
+  "Rated": "PG",
+  "Released": "30 Sep 2022",
+  "Runtime": "103 min",
+  "Genre": "Comedy, Family, Fantasy",
+  "Director": "Anne Fletcher",
+  "Writer": "Jen D'Angelo, David Kirschner, Blake Harris",
+  "Actors": "Bette Midler, Sarah Jessica Parker, Kathy Najimy",
+  "Plot": "Two young women accidentally bring back the Sanderson Sisters to modern day Salem and must figure out how to stop the child-hungry witches from wreaking havoc on the world.",
+  "Language": "English",
+  "Country": "United States, Zambia, United Kingdom, Australia",
+  "Awards": "Nominated for 3 Primetime Emmys. 2 wins & 17 nominations total",
+  "Poster": "https://m.media-amazon.com/images/M/MV5BYTBkMGY0MTMtZmM1Yi00MWY1LWI0ZGYtY2Q1ZGM0MTQ5Nzk3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+  "Ratings": [
+    {
+      "Source": "Internet Movie Database",
+      "Value": "6.0/10"
+    },
+    {
+      "Source": "Rotten Tomatoes",
+      "Value": "65%"
+    },
+    {
+      "Source": "Metacritic",
+      "Value": "56/100"
+    }
+  ],
+  "Metascore": "56",
+  "imdbRating": "6.0",
+  "imdbVotes": "53,139",
+  "imdbID": "tt11909878",
+  "Type": "movie",
+  "DVD": "N/A",
+  "BoxOffice": "N/A",
+  "Production": "N/A",
+  "Website": "N/A",
+  "Response": "True"
+}
